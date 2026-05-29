@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2042538846760440210",
+    "created_at": "2026-04-10T09:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042538846760440210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AAAAAMTxT/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/AAAAAMTxT/status/2042528921221255448",
+          "start": 28,
+          "url": "https://t.co/PmoKVILe2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042538846760440210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042528921221255448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有人可以听一下我的声音一直不知道自己声音成不成熟🤔 https://t.co/PmoKVILe2Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2042538846760440210",
+        "created_at": "2026-04-10T09:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042538846760440210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AAAAAMTxT/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/AAAAAMTxT/status/2042528921221255448",
+              "start": 28,
+              "url": "https://t.co/PmoKVILe2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042538846760440210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042528921221255448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有人可以听一下我的声音一直不知道自己声音成不成熟🤔 https://t.co/PmoKVILe2Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228546301572173825",
+        "conversation_id": "2042528921221255448",
+        "created_at": "2026-04-10T09:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042528921221255448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinii165892/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/rinii165892/status/2042527410969809280",
+              "start": 28,
+              "url": "https://t.co/4cgcmF94ib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042528921221255448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042527410969809280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有人可以听一下我的声音一直不知道自己声音成不成熟🤔 https://t.co/4cgcmF94ib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 240,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 201
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/无性别主义/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝/出厂日期04.7/主坑prsk/+墙内需过🚪59r/过🚪可同城约见面一起玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（互联网的堕落天使）",
+        "pinned_tweet_id": "2031380325709103481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034974104538030089/YeDmGLD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 823,
+          "like_count": 32280,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 6308
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      }
+    ]
+  }
+}

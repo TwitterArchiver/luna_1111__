@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2053034706350850499",
+    "created_at": "2026-05-09T08:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053034706350850499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/aoim33/status/2052988326068826548",
+          "start": 9,
+          "url": "https://t.co/7DmXkSVX3d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053034706350850499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052988326068826548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "少了一辆特斯拉🤓 https://t.co/7DmXkSVX3d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052988317755691008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2t_2_a0AAbnN6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2053034706350850499",
+        "created_at": "2026-05-09T08:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053034706350850499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/aoim33/status/2052988326068826548",
+              "start": 9,
+              "url": "https://t.co/7DmXkSVX3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053034706350850499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052988326068826548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "少了一辆特斯拉🤓 https://t.co/7DmXkSVX3d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052988317755691008"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2052988326068826548",
+        "created_at": "2026-05-09T05:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052988326068826548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7KiOBdQzx",
+              "end": 33,
+              "expanded_url": "https://x.com/aoim33/status/2052988326068826548/photo/1",
+              "media_key": "3_2052988317755691008",
+              "start": 10,
+              "url": "https://t.co/p7KiOBdQzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052988326068826548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5716,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "一阵强劲的音乐响起 https://t.co/p7KiOBdQzx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 应该算是半个家长党？ | 重度社恐 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 376,
+          "like_count": 3752,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 581
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2052301832165450210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5230,
+          "following_count": 2887,
+          "like_count": 47650,
+          "listed_count": 19,
+          "media_count": 2715,
+          "tweet_count": 11833
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

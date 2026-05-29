@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2053409961397588356",
+    "created_at": "2026-05-10T10:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053416446789656961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940456482744795138",
+          "start": 0,
+          "username": "ICEbingkuai95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053416446789656961",
+    "in_reply_to_user_id": "1940456482744795138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053409961397588356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICEbingkuai95 我是抱着鲨鲨会很疼😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2053409961397588356",
+        "created_at": "2026-05-10T10:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053416446789656961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940456482744795138",
+              "start": 0,
+              "username": "ICEbingkuai95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053416446789656961",
+        "in_reply_to_user_id": "1940456482744795138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053409961397588356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICEbingkuai95 我是抱着鲨鲨会很疼😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940456482744795138",
+        "conversation_id": "2053409961397588356",
+        "created_at": "2026-05-10T09:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053409961397588356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053409961397588356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "衣服磨的奶子好痛😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 应该算是半个家长党? | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 380,
+          "like_count": 3835,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 594
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T17:04:21.000Z",
+        "description": "你好呀这里是冰块 可贴贴 同类可互粉！\n中焦重抑不od💊/🍥🏳️‍⚧️🏳️‍🌈 2010.9月生产的 mtf出柜成功\n观察期已结束准备证明中（家长党）/CN/EN/繁/JP/可交流/音游痴@IceBingKuai2010（小号）不定时更新🥰谢谢喜欢🥰LGBT+友好🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "IceBingKuai2010"
+              }
+            ]
+          }
+        },
+        "id": "1940456482744795138",
+        "location": "成为那个最认可的她就是我的终点🏳️‍⚧️",
+        "name": "氷水化合物🏳️‍⚧️（忍着不发负能版😿）",
+        "pinned_tweet_id": "2049570638378188843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052783442648264704/LGTWMNVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 526,
+          "like_count": 1525,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 522
+        },
+        "username": "ICEbingkuai95",
+        "verified": false
+      }
+    ]
+  }
+}

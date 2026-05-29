@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2037922859939668268",
+    "created_at": "2026-03-28T16:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T17:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037922859939668268"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "mtf"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "xyn"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "xnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037922859939668268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于开了推特号了 看看一个月内能不能到1000fo？～\n\n#mtf #xyn #xnn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2037922859939668268",
+        "created_at": "2026-03-28T16:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037922859939668268"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "mtf"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "xyn"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "xnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037922859939668268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于开了推特号了 看看一个月内能不能到1000fo？～\n\n#mtf #xyn #xnn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MTF | HRT since: 2026.03.20 | 应该算是半个家长党？ | 生产年份 2007 | 150 40",
+        "id": "2037915149173182465",
+        "name": "Luna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037919463937572864/e9-Zxksf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "luna_1111__",
+        "verified": false
+      }
+    ]
+  }
+}

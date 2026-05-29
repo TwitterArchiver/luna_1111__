@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2045759449965690934",
+    "created_at": "2026-04-19T07:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T08:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045760222875074939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045760222875074939",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045759449965690934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 买冰块送饮料（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1589,
+        "media_key": "3_2045759340104310784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGP_R-ra4AAdCA5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2045759449965690934",
+        "created_at": "2026-04-19T07:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045760222875074939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045760222875074939",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045759449965690934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 买冰块送饮料（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045759340104310784"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2045759449965690934",
+        "created_at": "2026-04-19T07:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045759449965690934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hil1UBUVrE",
+              "end": 55,
+              "expanded_url": "https://x.com/Rococo90933671/status/2045759449965690934/photo/1",
+              "media_key": "3_2045759340104310784",
+              "start": 32,
+              "url": "https://t.co/Hil1UBUVrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045759449965690934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的受不了了，夏天又要到了，到底怎么面对瑞幸的致死量冰块啊？😭 https://t.co/Hil1UBUVrE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luna_1111__",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luna_1111__",
+                "start": 0,
+                "url": "https://t.co/IjiV0z82kR"
+              }
+            ]
+          }
+        },
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "pinned_tweet_id": "2045081365025083401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 276,
+          "like_count": 2082,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/IjiV0z82kR",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10210,
+          "following_count": 2914,
+          "like_count": 35457,
+          "listed_count": 30,
+          "media_count": 3707,
+          "tweet_count": 20631
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

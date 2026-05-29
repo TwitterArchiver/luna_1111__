@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2043755059763401055",
+    "created_at": "2026-04-14T03:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043897661934244259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663332142796148736",
+          "start": 0,
+          "username": "dajuzi23242526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043897661934244259",
+    "in_reply_to_user_id": "1663332142796148736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043755059763401055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dajuzi23242526 加油喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2043755059763401055",
+        "created_at": "2026-04-14T03:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043897661934244259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663332142796148736",
+              "start": 0,
+              "username": "dajuzi23242526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043897661934244259",
+        "in_reply_to_user_id": "1663332142796148736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043755059763401055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dajuzi23242526 加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663332142796148736",
+        "conversation_id": "2043755059763401055",
+        "created_at": "2026-04-13T18:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T19:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043755059763401055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blind___gamer/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/blind___gamer/status/2043630277591814275",
+              "start": 25,
+              "url": "https://t.co/nThkhFCmrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043755059763401055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043630277591814275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望自己也会成功，加油，🥹你们说橙子会成功吗🥹🥹 https://t.co/nThkhFCmrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "pinned_tweet_id": "2043308904009117983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 255,
+          "like_count": 1430,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 254
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T23:51:16.000Z",
+        "description": "🏳️‍⚧️爱我的二胖城市和杭州「难走的路永远不会拥挤但是充满了前所未有的荆棘以及希望」跨女\\le..」女同\\lo娘，jk，三坑，另一个平台app「bluesky」「推只是我的日记本说说..@dajuzi23242526.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 94,
+                "username": "dajuzi23242526"
+              }
+            ]
+          }
+        },
+        "id": "1663332142796148736",
+        "name": "橙子喵🐱🍥",
+        "pinned_tweet_id": "1783634433935114708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888671212089536512/l5Yhh46E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 4572,
+          "like_count": 123250,
+          "listed_count": 6,
+          "media_count": 1139,
+          "tweet_count": 32073
+        },
+        "username": "dajuzi23242526",
+        "verified": false
+      }
+    ]
+  }
+}

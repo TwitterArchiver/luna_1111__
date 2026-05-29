@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2049398851111403589",
+    "created_at": "2026-04-29T08:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049398851111403589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nanaumi_Ayana/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Nanaumi_Ayana/status/2049339769101177190",
+          "start": 22,
+          "url": "https://t.co/Dg0qNdt3HE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049398851111403589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049339769101177190",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他妈的一群男的奶子比我都大我他妈真的哭了😭 https://t.co/Dg0qNdt3HE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2049398851111403589",
+        "created_at": "2026-04-29T08:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049398851111403589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nanaumi_Ayana/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Nanaumi_Ayana/status/2049339769101177190",
+              "start": 22,
+              "url": "https://t.co/Dg0qNdt3HE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049398851111403589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049339769101177190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他妈的一群男的奶子比我都大我他妈真的哭了😭 https://t.co/Dg0qNdt3HE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809512780216827904",
+        "conversation_id": "2049339769101177190",
+        "created_at": "2026-04-29T04:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049339769101177190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049339769101177190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的一群男的奶子比我都大我他妈真的哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luna_1111__",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luna_1111__",
+                "start": 0,
+                "url": "https://t.co/IjiV0z82kR"
+              }
+            ]
+          }
+        },
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 314,
+          "like_count": 2943,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/IjiV0z82kR",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T09:00:53.000Z",
+        "description": "=花田蘇雫/七海綾奈\n09年INFP | 无证含糖 | mtf🏳️‍⚧️hrt2026.3.29 | les且厌男 | 173cm47kg超绝骷髅身材 | 臭打音游的 | 画渣\n可能是个⭐🦆1️⃣色批疯子 本人将不会对在此说出的每一个字负责）同类可以互fo喵🥺\n负能条底下可以不用安慰我 讨厌虚情假意的关切",
+        "id": "1809512780216827904",
+        "location": " 『往世乐土』-  爱莉希雅身边",
+        "name": "🎀苏雫_ソシズク🍥🍡",
+        "pinned_tweet_id": "2041863908689113166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041133333686652928/ZRcgQaJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 213,
+          "like_count": 2018,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1179
+        },
+        "username": "Nanaumi_Ayana",
+        "verified": false
+      }
+    ]
+  }
+}

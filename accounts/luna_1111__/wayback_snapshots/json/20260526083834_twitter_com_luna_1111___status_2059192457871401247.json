@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2059178568765296884",
+    "created_at": "2026-05-26T08:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059192457871401247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_1003"
+        },
+        {
+          "end": 28,
+          "id": "2040203145544880128",
+          "start": 12,
+          "username": "iWwAUfN9Eo50488"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059192457871401247",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059190601715986924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_1003 @iWwAUfN9Eo50488 跟我相反ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2059178568765296884",
+        "created_at": "2026-05-26T08:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059192457871401247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            },
+            {
+              "end": 28,
+              "id": "2040203145544880128",
+              "start": 12,
+              "username": "iWwAUfN9Eo50488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059192457871401247",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059190601715986924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 @iWwAUfN9Eo50488 跟我相反ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "2059178568765296884",
+        "created_at": "2026-05-26T08:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059190601715986924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            },
+            {
+              "end": 29,
+              "id": "2040203145544880128",
+              "start": 13,
+              "username": "iWwAUfN9Eo50488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059190601715986924",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059180329026379821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ @iWwAUfN9Eo50488 人这么多反倒不害怕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 416,
+          "like_count": 5291,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 693
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "BPD | ADHD | 双相 | 轨道交通🚇 | 千禧年爱好者 | 路过的特摄厨 | 现代诗 | 东方Project⛩️ | 摄影萌新📷 | 存在即过程 | 因被庸医随意磨牙而导致咬合紊乱，现求医无果",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fauux.neocities.org",
+                "end": 23,
+                "expanded_url": "https://fauux.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/acFSo3JJEe"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "location": "Guangzhou",
+        "name": "HongSword",
+        "pinned_tweet_id": "2057302010702242011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963640817748529152/rO-B39dJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 448,
+          "like_count": 23665,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 4945
+        },
+        "url": "https://t.co/acFSo3JJEe",
+        "username": "sword_1003",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T23:02:47.000Z",
+        "description": "hrt/08 1.18高中牲 /odo的多一点💊/不🔪\n闲聊找我/私信看见会回/非常喜欢coffee/💊/书法/🚬/双向\n不善言辞但是会倾听，可以充当大家的情绪垃圾桶。\n（求你们和我唠嗑吧😭）",
+        "id": "2040203145544880128",
+        "name": "321908🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040341735541477376/sjwX1z81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 270,
+          "like_count": 883,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 544
+        },
+        "username": "iWwAUfN9Eo50488",
+        "verified": false
+      }
+    ]
+  }
+}

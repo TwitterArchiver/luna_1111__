@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2048760692262543852",
+    "created_at": "2026-04-27T13:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048760692262543852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TeamRain_2024/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/TeamRain_2024/status/2048741468635042118",
+          "start": 24,
+          "url": "https://t.co/ScVn08NCyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048760692262543852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048741468635042118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要肥死了😭😭😭，刚才测出了40.3kg😭😭😭 https://t.co/ScVn08NCyX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2048760692262543852",
+        "created_at": "2026-04-27T13:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048760692262543852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TeamRain_2024/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/TeamRain_2024/status/2048741468635042118",
+              "start": 24,
+              "url": "https://t.co/ScVn08NCyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048760692262543852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048741468635042118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要肥死了😭😭😭，刚才测出了40.3kg😭😭😭 https://t.co/ScVn08NCyX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2048741468635042118",
+        "created_at": "2026-04-27T12:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048741468635042118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine_202…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/RainEngine_2024/status/2048739936313201149",
+              "start": 22,
+              "url": "https://t.co/upUvgs8hgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048741468635042118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 412,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048739936313201149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要肥死了😭😭😭，刚才测出了54kg😭😭😭 https://t.co/upUvgs8hgc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luna_1111__",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luna_1111__",
+                "start": 0,
+                "url": "https://t.co/IjiV0z82kR"
+              }
+            ]
+          }
+        },
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "pinned_tweet_id": "2045081365025083401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 310,
+          "like_count": 2802,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/IjiV0z82kR",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴.",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045274685164949504/jv-Rj4Eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9805,
+          "following_count": 976,
+          "like_count": 81130,
+          "listed_count": 19,
+          "media_count": 1614,
+          "tweet_count": 11373
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "TeamRain_2024",
+        "verified": true
+      }
+    ]
+  }
+}

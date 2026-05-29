@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055692038033879040"
+      ],
+      "media_source_tweet_id": [
+        "2055692180891865264"
+      ]
+    },
+    "author_id": "2037915149173182465",
+    "conversation_id": "2055701883231047839",
+    "created_at": "2026-05-16T17:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055701883231047839"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "prsk_cos"
+        },
+        {
+          "end": 48,
+          "start": 41,
+          "tag": "朝比奈まふゆ"
+        },
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "ラヴィ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043952988557803520",
+          "start": 3,
+          "username": "tngxngxng13171"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pe1Lb7GOur",
+          "end": 77,
+          "expanded_url": "https://x.com/tngxngxng13171/status/2055692180891865264/video/1",
+          "media_key": "7_2055692038033879040",
+          "start": 54,
+          "url": "https://t.co/Pe1Lb7GOur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055701883231047839",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055692180891865264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tngxngxng13171: まふゆ試著跳了ラヴィ\n#prsk_cos #朝比奈まふゆ #ラヴィ https://t.co/Pe1Lb7GOur"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12933,
+        "height": 1182,
+        "media_key": "7_2055692038033879040",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055692038033879040/pu/img/duPBzjRorsVmg1Nw.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055692038033879040/pu/vid/avc1/320x524/CktY6_Yd60smbZaS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055692038033879040/pu/vid/avc1/480x788/db74akD_x_N8A8N9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055692038033879040/pu/vid/avc1/720x1182/HI6UHmGq31iTu7U7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055692038033879040/pu/pl/_ecB9nm1HkZ80KRC.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055692038033879040"
+          ],
+          "media_source_tweet_id": [
+            "2055692180891865264"
+          ]
+        },
+        "author_id": "2037915149173182465",
+        "conversation_id": "2055701883231047839",
+        "created_at": "2026-05-16T17:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055701883231047839"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "prsk_cos"
+            },
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "朝比奈まふゆ"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "ラヴィ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043952988557803520",
+              "start": 3,
+              "username": "tngxngxng13171"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pe1Lb7GOur",
+              "end": 77,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2055692180891865264/video/1",
+              "media_key": "7_2055692038033879040",
+              "start": 54,
+              "url": "https://t.co/Pe1Lb7GOur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055701883231047839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055692180891865264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tngxngxng13171: まふゆ試著跳了ラヴィ\n#prsk_cos #朝比奈まふゆ #ラヴィ https://t.co/Pe1Lb7GOur"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055692038033879040"
+          ]
+        },
+        "author_id": "2043952988557803520",
+        "conversation_id": "2055692180891865264",
+        "created_at": "2026-05-16T16:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055692180891865264"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "prsk_cos"
+            },
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "朝比奈まふゆ"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "ラヴィ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pe1Lb7GOur",
+              "end": 57,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2055692180891865264/video/1",
+              "media_key": "7_2055692038033879040",
+              "start": 34,
+              "url": "https://t.co/Pe1Lb7GOur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055692180891865264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "まふゆ試著跳了ラヴィ\n#prsk_cos #朝比奈まふゆ #ラヴィ https://t.co/Pe1Lb7GOur"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 398,
+          "like_count": 4425,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 636
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "互联网的堕天使/白骑士综合征/地雷/餐券/病弱/抖M/恋痛/生理双性/无性别主义者/永远怀念 @AAAAAMTxT /互fo寻回中... \n\n主坑prsk/主推宵崎奏、晓山瑞希、望月穗波、日野森志步/团推Leoneed&25时/会出一些相关的cos\n\n副坑神椿/喜欢可不的歌声",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "AAAAAMTxT"
+              }
+            ]
+          }
+        },
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "可不敢乱说",
+        "pinned_tweet_id": "2049221796327838000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 189,
+          "like_count": 3103,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 427
+        },
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

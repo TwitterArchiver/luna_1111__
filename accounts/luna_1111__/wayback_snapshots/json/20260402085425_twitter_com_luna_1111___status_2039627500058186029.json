@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2039627500058186029",
+    "created_at": "2026-04-02T08:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039627500058186029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898849785559580672",
+          "start": 3,
+          "username": "Sakura_RinSaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039627500058186029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039536116186153263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura_RinSaki: 地球online\n評分：★☆☆☆☆\n=====\n好討厭創角自帶的搖桿\n好妨礙遊戲體驗 \n\n記得一開始明明選擇的是軟墊呀\n結果 現在必須後期使用道具來獲得軟墊\n還必須課金才能拆除搖桿…\n\n新手村還十分不友好 \n一直妨礙自己拆除搖桿 http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2039536113581522944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3jShSbgAAKxdx.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2039627500058186029",
+        "created_at": "2026-04-02T08:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039627500058186029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1898849785559580672",
+              "start": 3,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039627500058186029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039536116186153263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakura_RinSaki: 地球online\n評分：★☆☆☆☆\n=====\n好討厭創角自帶的搖桿\n好妨礙遊戲體驗 \n\n記得一開始明明選擇的是軟墊呀\n結果 現在必須後期使用道具來獲得軟墊\n還必須課金才能拆除搖桿…\n\n新手村還十分不友好 \n一直妨礙自己拆除搖桿 http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039536113581522944"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "conversation_id": "2039536116186153263",
+        "created_at": "2026-04-02T02:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039536116186153263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/twAQjnRLX1",
+              "end": 138,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2039536116186153263/photo/1",
+              "media_key": "3_2039536113581522944",
+              "start": 115,
+              "url": "https://t.co/twAQjnRLX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039536116186153263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1095,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "地球online\n評分：★☆☆☆☆\n=====\n好討厭創角自帶的搖桿\n好妨礙遊戲體驗 \n\n記得一開始明明選擇的是軟墊呀\n結果 現在必須後期使用道具來獲得軟墊\n還必須課金才能拆除搖桿…\n\n新手村還十分不友好 \n一直妨礙自己拆除搖桿 https://t.co/twAQjnRLX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 生产年份2007 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 互fo💜 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna",
+        "pinned_tweet_id": "2037922859939668268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037919463937572864/e9-Zxksf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 185,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨2006丨47kg丨不可愛的帳號\n\n @moon_sakiki \n\ntg:SukuMurong\n\nざぁこ人類，キモ，しね 吸血喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "moon_sakiki"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024754773959069699/_DxRSmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2034,
+          "following_count": 102,
+          "like_count": 2746,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 2844
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

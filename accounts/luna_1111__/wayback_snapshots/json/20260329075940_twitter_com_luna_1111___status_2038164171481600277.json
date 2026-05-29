@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2038164171481600277",
+    "created_at": "2026-03-29T07:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T08:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038164171481600277"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038164171481600277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然现在出门都是被叫妹妹(中性打扮)\n\n但是被认识的人当成男的还是会很难过想哭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2038164171481600277",
+        "created_at": "2026-03-29T07:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038164171481600277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038164171481600277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然现在出门都是被叫妹妹(中性打扮)\n\n但是被认识的人当成男的还是会很难过想哭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MTF | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 生产年份 2007 | 互fo💜 | 150 40",
+        "id": "2037915149173182465",
+        "name": "Luna",
+        "pinned_tweet_id": "2037922859939668268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037919463937572864/e9-Zxksf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 63,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "luna_1111__",
+        "verified": false
+      }
+    ]
+  }
+}

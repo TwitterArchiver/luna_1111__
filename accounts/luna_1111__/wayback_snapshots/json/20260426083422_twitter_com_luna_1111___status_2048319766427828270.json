@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291134406699016192",
+          "name": "University of Chicago"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1291134406699016192",
+          "name": "University of Chicago"
+        }
+      }
+    ],
+    "conversation_id": "2048319766427828270",
+    "created_at": "2026-04-26T08:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048319766427828270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048319766427828270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048261697425572128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 各位好，这里是amber，25岁，🏳️‍⚧️跨性别女性（未术），Duke本科+UChicago硕士文科生，目前在🇨🇦多伦多读博。为偿还现有信用卡和房租债务，本人现开通以下付费服务，欢迎大家帮忙转发传播。\n\ni’m also accepting…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048261692803715072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzjKE6bEAA8lRW.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291134406699016192",
+              "name": "University of Chicago"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1291134406699016192",
+              "name": "University of Chicago"
+            }
+          }
+        ],
+        "conversation_id": "2048319766427828270",
+        "created_at": "2026-04-26T08:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048319766427828270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048319766427828270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048261697425572128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 各位好，这里是amber，25岁，🏳️‍⚧️跨性别女性（未术），Duke本科+UChicago硕士文科生，目前在🇨🇦多伦多读博。为偿还现有信用卡和房租债务，本人现开通以下付费服务，欢迎大家帮忙转发传播。\n\ni’m also accepting…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048261692803715072"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041560009",
+              "name": "Venmo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041560009",
+              "name": "Venmo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1291134406699016192",
+              "name": "University of Chicago"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2048261697425572128",
+        "created_at": "2026-04-26T04:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048261697425572128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NETRcSRy0D",
+              "end": 213,
+              "expanded_url": "https://x.com/amber_toffee/status/2048261697425572128/photo/1",
+              "media_key": "3_2048261692803715072",
+              "start": 190,
+              "url": "https://t.co/NETRcSRy0D"
+            },
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 237,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2047145196681302433",
+              "start": 214,
+              "url": "https://t.co/hbdkQtIKNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048261697425572128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1137,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047145196681302433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位好，这里是amber，25岁，🏳️‍⚧️跨性别女性（未术），Duke本科+UChicago硕士文科生，目前在🇨🇦多伦多读博。为偿还现有信用卡和房租债务，本人现开通以下付费服务，欢迎大家帮忙转发传播。\n\ni’m also accepting donations via paypal/zelle/venmo/e-transfer: panzehao2001@gmail.com https://t.co/NETRcSRy0D https://t.co/hbdkQtIKNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luna_1111__",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luna_1111__",
+                "start": 0,
+                "url": "https://t.co/IjiV0z82kR"
+              }
+            ]
+          }
+        },
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "pinned_tweet_id": "2045081365025083401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 300,
+          "like_count": 2703,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/IjiV0z82kR",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2048261697425572128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26793,
+          "following_count": 2849,
+          "like_count": 41829,
+          "listed_count": 14,
+          "media_count": 660,
+          "tweet_count": 22286
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

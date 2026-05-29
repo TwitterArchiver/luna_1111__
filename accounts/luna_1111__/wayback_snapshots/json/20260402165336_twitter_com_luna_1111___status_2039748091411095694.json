@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2039748091411095694",
+    "created_at": "2026-04-02T16:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039748091411095694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hello114511004…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/hello1145110043/status/2039732241417515197",
+          "start": 89,
+          "url": "https://t.co/sIAtV1A6C8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039748091411095694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039732241417515197",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们都是在推上怎么交到朋友的呀\n我觉得很神奇\n感觉你们都有姐姐妹妹，我没有这么亲密的人\n我的朋友也很少，朋友说话也少\n我也想要对象，我也想要姐姐妹妹，我也想要说话很多很多的朋友 https://t.co/sIAtV1A6C8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2039748091411095694",
+        "created_at": "2026-04-02T16:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039748091411095694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hello114511004…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/hello1145110043/status/2039732241417515197",
+              "start": 89,
+              "url": "https://t.co/sIAtV1A6C8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039748091411095694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039732241417515197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们都是在推上怎么交到朋友的呀\n我觉得很神奇\n感觉你们都有姐姐妹妹，我没有这么亲密的人\n我的朋友也很少，朋友说话也少\n我也想要对象，我也想要姐姐妹妹，我也想要说话很多很多的朋友 https://t.co/sIAtV1A6C8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016108531028787202",
+        "conversation_id": "2039732241417515197",
+        "created_at": "2026-04-02T15:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039732241417515197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ye_and_yae/sta…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/ye_and_yae/status/2039729602722152775",
+              "start": 89,
+              "url": "https://t.co/z2qwJSEreN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039732241417515197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039729602722152775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们都是在推上怎么交到朋友的呀\n我觉得很神奇\n感觉你们都有姐姐妹妹，我没有这么亲密的人\n我的朋友也很少，朋友说话也少\n我也想要对象，我也想要姐姐妹妹，我也想要说话很多很多的朋友 https://t.co/z2qwJSEreN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 生产年份2007 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 互fo💜 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna",
+        "pinned_tweet_id": "2037922859939668268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037919463937572864/e9-Zxksf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 196,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 76
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T11:18:35.000Z",
+        "description": "我是不是啥子？\n不线下哦～",
+        "id": "2016108531028787202",
+        "location": "地球",
+        "name": "fo我免费送炸鸡（bushi ）🍥",
+        "pinned_tweet_id": "2039368536037146659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 109,
+          "like_count": 1211,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 624
+        },
+        "username": "hello1145110043",
+        "verified": false
+      }
+    ]
+  }
+}

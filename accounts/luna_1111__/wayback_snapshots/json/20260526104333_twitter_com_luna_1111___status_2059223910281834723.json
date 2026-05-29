@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2059223910281834723",
+    "created_at": "2026-05-26T10:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059223910281834723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/senzhiwu/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/senzhiwu/status/2059209561828176268",
+          "start": 9,
+          "url": "https://t.co/hDjx110xTc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059223910281834723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059209561828176268",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢od奶茶😋 https://t.co/hDjx110xTc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2059223910281834723",
+        "created_at": "2026-05-26T10:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059223910281834723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senzhiwu/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/senzhiwu/status/2059209561828176268",
+              "start": 9,
+              "url": "https://t.co/hDjx110xTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059223910281834723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059209561828176268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢od奶茶😋 https://t.co/hDjx110xTc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2059209561828176268",
+        "created_at": "2026-05-26T09:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059209561828176268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059209561828176268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢od矿泉水😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 416,
+          "like_count": 5293,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 695
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "叫我森森就好啦｜一个什么都不擅长的废物呜呜｜日常孤独缺爱ing｜喜欢一切可爱的东西｜生日2008｜mtx🏳️‍⚧️｜小证含糖中｜entp-t｜hrt 3.29 ｜欢迎互fo喵！｜炒稀饭@6mhzph｜🇲🇾留学生/常驻南京 欢迎来找我玩哦 可以把我当树洞喵，虽然可能不太会安慰人呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 92,
+                "username": "6mhzph"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057469282360107008/wkkOtOfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 340,
+          "like_count": 2280,
+          "listed_count": 4,
+          "media_count": 95,
+          "tweet_count": 2134
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

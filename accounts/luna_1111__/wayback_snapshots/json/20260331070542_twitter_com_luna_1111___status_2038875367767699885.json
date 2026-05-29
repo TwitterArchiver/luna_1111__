@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2038490784580739123",
+    "created_at": "2026-03-31T07:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T08:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038875367767699885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002481426839842817",
+          "start": 0,
+          "username": "hammond_th45740"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038875367767699885",
+    "in_reply_to_user_id": "2002481426839842817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038845294834745538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hammond_th45740 我B站没实名只能看影片😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2038490784580739123",
+        "created_at": "2026-03-31T07:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038875367767699885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002481426839842817",
+              "start": 0,
+              "username": "hammond_th45740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038875367767699885",
+        "in_reply_to_user_id": "2002481426839842817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038845294834745538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hammond_th45740 我B站没实名只能看影片😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002481426839842817",
+        "conversation_id": "2038490784580739123",
+        "created_at": "2026-03-31T05:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038845294834745538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038845294834745538",
+        "in_reply_to_user_id": "2002481426839842817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038844899093880922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 加我B站账号☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 生产年份 2007 | 互fo💜 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna",
+        "pinned_tweet_id": "2037922859939668268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037919463937572864/e9-Zxksf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 137,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 31
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T20:49:20.000Z",
+        "description": "",
+        "id": "2002481426839842817",
+        "name": "不知怎么起昵称",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021438938054000641/G2s-fzw__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 196,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "hammond_th45740",
+        "verified": false
+      }
+    ]
+  }
+}

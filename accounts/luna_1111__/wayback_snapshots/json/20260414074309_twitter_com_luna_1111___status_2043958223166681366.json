@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2043958223166681366",
+    "created_at": "2026-04-14T07:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043958223166681366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Pr0mis3_c/stat…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/Pr0mis3_c/status/2043957458524352603",
+          "start": 64,
+          "url": "https://t.co/VnnVSsssGf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043958223166681366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043957458524352603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "模仿猫咪说话会有一种莫名的愉悦感喵 好爽喵😋这才是真实自我喵🤤 去**人类喵😡谁爱当人类当人类去喵，我就算吃药折寿也不会当喵😡 https://t.co/VnnVSsssGf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2043958223166681366",
+        "created_at": "2026-04-14T07:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043958223166681366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pr0mis3_c/stat…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Pr0mis3_c/status/2043957458524352603",
+              "start": 64,
+              "url": "https://t.co/VnnVSsssGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043958223166681366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043957458524352603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "模仿猫咪说话会有一种莫名的愉悦感喵 好爽喵😋这才是真实自我喵🤤 去**人类喵😡谁爱当人类当人类去喵，我就算吃药折寿也不会当喵😡 https://t.co/VnnVSsssGf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993628897645408256",
+        "conversation_id": "2043957458524352603",
+        "created_at": "2026-04-14T07:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043957458524352603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2043893957936197922",
+              "start": 60,
+              "url": "https://t.co/RtysgLpuMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043957458524352603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043893957936197922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "模仿女生说话会有一种莫名的愉悦感 好爽喵😋这才是真实自我🤤 去**男生😡谁爱当男生当男生去，我就算吃药折寿也不会当喵😡 https://t.co/RtysgLpuMl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "pinned_tweet_id": "2043308904009117983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 261,
+          "like_count": 1466,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 263
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2| en/zh | 无证含糖 | 持续深柜中 | 喜欢xnn&xyn | 精神健康稳定，无不良嗜好 | 梦想srs | 同类互fo | 想要交友...\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 134,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 111,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "Pr0mis3❄️🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039290189093519707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043357816061317120/j4VSdQ5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 374,
+          "like_count": 1284,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 417
+        },
+        "username": "Pr0mis3_c",
+        "verified": true
+      }
+    ]
+  }
+}

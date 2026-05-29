@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2057367809697665479",
+    "created_at": "2026-05-21T07:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057367809697665479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057367809697665479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057366487435035027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 我来公司干嘛\n1、我来是付出劳动换取工资，不是来燃烧生命。\n2、如果我不能准点下班，说明公司安排不合理，这不是我的问题。\n3、我拿多少薪水，就干多少事情，一分价钱一分货。\n4、我能休多少假期，是我合法权利，不是公司恩赐。\n5、让准时下班的人安心，让…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2057367809697665479",
+        "created_at": "2026-05-21T07:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057367809697665479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057367809697665479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057366487435035027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 我来公司干嘛\n1、我来是付出劳动换取工资，不是来燃烧生命。\n2、如果我不能准点下班，说明公司安排不合理，这不是我的问题。\n3、我拿多少薪水，就干多少事情，一分价钱一分货。\n4、我能休多少假期，是我合法权利，不是公司恩赐。\n5、让准时下班的人安心，让…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2057366487435035027",
+        "created_at": "2026-05-21T07:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057366487435035027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057366487435035027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我来公司干嘛\n1、我来是付出劳动换取工资，不是来燃烧生命。\n2、如果我不能准点下班，说明公司安排不合理，这不是我的问题。\n3、我拿多少薪水，就干多少事情，一分价钱一分货。\n4、我能休多少假期，是我合法权利，不是公司恩赐。\n5、让准时下班的人安心，让强制加班的人闭嘴。\n工资就是我的目标\n1、公司的工资：就是我劳动的报酬；\n2、自己的健康：就是我最该守护的本钱；\n3、法律的休假：就是我争取权利的参照；\n4、领导的画饼：就是我左耳进右耳出的噪音；\n5、同行的高薪：就是我跳槽的指南针。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我来公司干嘛\n1、我来是付出劳动换取工资，不是来燃烧生命。\n2、如果我不能准点下班，说明公司安排不合理，这不是我的问题。\n3、我拿多少薪水，就干多少事情，一分价钱一分货。\n4、我能休多少假期，是我合法权利，不是公司恩赐。\n5、让准时下班的人安心，让强制加班的人闭嘴。\n工资就是我的目标"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 407,
+          "like_count": 4951,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 677
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5472,
+          "following_count": 2280,
+          "like_count": 11664,
+          "listed_count": 17,
+          "media_count": 1750,
+          "tweet_count": 6794
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

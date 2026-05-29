@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2051201974951964796",
+    "created_at": "2026-05-04T07:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T08:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051201974951964796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898849785559580672",
+          "start": 3,
+          "username": "Sakura_RinSaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051201974951964796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028912109183222037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura_RinSaki: 嗚 好想要有那種 類似閨蜜一樣 很親近很親近的朋友  嗚 從小時候就一直一直很想要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2051201974951964796",
+        "created_at": "2026-05-04T07:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051201974951964796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1898849785559580672",
+              "start": 3,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051201974951964796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028912109183222037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakura_RinSaki: 嗚 好想要有那種 類似閨蜜一樣 很親近很親近的朋友  嗚 從小時候就一直一直很想要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2028912109183222037",
+        "created_at": "2026-03-03T19:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T20:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028912109183222037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028912109183222037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 819,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "嗚 好想要有那種 類似閨蜜一樣 很親近很親近的朋友  嗚 從小時候就一直一直很想要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 应该算是半个家长党？ | 重度社恐 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 340,
+          "like_count": 3410,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 541
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 92,
+          "like_count": 3747,
+          "listed_count": 6,
+          "media_count": 208,
+          "tweet_count": 3456
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2047963757100282269",
+    "created_at": "2026-04-25T12:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048010398931071120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2949868909",
+          "start": 0,
+          "username": "akikozono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048010398931071120",
+    "in_reply_to_user_id": "2949868909",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047989224373440768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akikozono ❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2047963757100282269",
+        "created_at": "2026-04-25T12:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048010398931071120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2949868909",
+              "start": 0,
+              "username": "akikozono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048010398931071120",
+        "in_reply_to_user_id": "2949868909",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047989224373440768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akikozono ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2949868909",
+        "conversation_id": "2047963757100282269",
+        "created_at": "2026-04-25T10:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047989224373440768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047989224373440768",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047963757100282269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 加油！❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luna_1111__",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luna_1111__",
+                "start": 0,
+                "url": "https://t.co/IjiV0z82kR"
+              }
+            ]
+          }
+        },
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "pinned_tweet_id": "2045081365025083401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 291,
+          "like_count": 2621,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/IjiV0z82kR",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-29T10:13:10.000Z",
+        "description": "日本好きな中国人女性🏳️‍⚧️🏳️‍🌈\nLGBTQ｜サッカー｜日中関係と民間交流\nサッカー日本代表応援歴16年🇯🇵\n中国SNSで日本代表応援アカ運営（15万+） | BBC・NHK取材歴あり | Middlesbrough FC China Supporters Club Founder",
+        "id": "2949868909",
+        "name": "Akikozono",
+        "pinned_tweet_id": "2041133906288910586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046148227712659456/EQ15Dcyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6151,
+          "following_count": 1673,
+          "like_count": 14878,
+          "listed_count": 20,
+          "media_count": 1698,
+          "tweet_count": 4646
+        },
+        "username": "akikozono",
+        "verified": true
+      }
+    ]
+  }
+}

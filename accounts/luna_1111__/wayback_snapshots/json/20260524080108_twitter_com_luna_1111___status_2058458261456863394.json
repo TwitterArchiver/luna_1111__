@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2058458261456863394",
+    "created_at": "2026-05-24T08:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058458261456863394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kawainegi/status/2058455618261061838",
+          "start": 2,
+          "url": "https://t.co/C88U82Brxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058458261456863394",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058455618261061838",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭 https://t.co/C88U82Brxd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2058458261456863394",
+        "created_at": "2026-05-24T08:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058458261456863394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kawainegi/status/2058455618261061838",
+              "start": 2,
+              "url": "https://t.co/C88U82Brxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058458261456863394",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058455618261061838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/C88U82Brxd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2058455618261061838",
+        "created_at": "2026-05-24T07:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058455618261061838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058455618261061838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為沒辦法選擇的所以來到這個世界了\n因為還沒離開這個世界所以還在為了不屬於自己的人生拼命掙扎著努力著"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 412,
+          "like_count": 5145,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 694
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 149,
+          "like_count": 5444,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1083
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

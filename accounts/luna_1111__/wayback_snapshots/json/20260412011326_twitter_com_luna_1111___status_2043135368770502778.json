@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2043004127370973436",
+    "created_at": "2026-04-12T01:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T02:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043135368770502778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1731214805493579776",
+          "start": 0,
+          "username": "CloudyP95723364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043135368770502778",
+    "in_reply_to_user_id": "1731214805493579776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043014532982100183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CloudyP95723364 早安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2043004127370973436",
+        "created_at": "2026-04-12T01:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043135368770502778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1731214805493579776",
+              "start": 0,
+              "username": "CloudyP95723364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043135368770502778",
+        "in_reply_to_user_id": "1731214805493579776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043014532982100183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CloudyP95723364 早安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731214805493579776",
+        "conversation_id": "2043004127370973436",
+        "created_at": "2026-04-11T17:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043014532982100183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043014532982100183",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043004127370973436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 晚安~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 248,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 218
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T07:32:43.000Z",
+        "description": "这个人很懒，什么也没有留下~\nMTF  | \n社恐 | \nhttps://t.co/7xM9OrtBYz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Yunan_Pure",
+                "end": 52,
+                "expanded_url": "http://t.me/Yunan_Pure",
+                "start": 29,
+                "url": "https://t.co/7xM9OrtBYz"
+              }
+            ]
+          }
+        },
+        "id": "1731214805493579776",
+        "name": "屿楠Pure🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039732828901130240/VgJ-tsYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 27,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "username": "CloudyP95723364",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2047138411987849314",
+    "created_at": "2026-04-23T03:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047153511809306853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "850349756559654912",
+          "start": 0,
+          "username": "vg2ut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047153511809306853",
+    "in_reply_to_user_id": "850349756559654912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047152350897569888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vg2ut 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2047138411987849314",
+        "created_at": "2026-04-23T03:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047153511809306853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "850349756559654912",
+              "start": 0,
+              "username": "vg2ut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047153511809306853",
+        "in_reply_to_user_id": "850349756559654912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047152350897569888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vg2ut 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850349756559654912",
+        "conversation_id": "2047138411987849314",
+        "created_at": "2026-04-23T03:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047152350897569888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047152350897569888",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047138411987849314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 熊也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luna_1111__",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luna_1111__",
+                "start": 0,
+                "url": "https://t.co/IjiV0z82kR"
+              }
+            ]
+          }
+        },
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "pinned_tweet_id": "2045081365025083401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 292,
+          "like_count": 2505,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/IjiV0z82kR",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-07T14:09:15.000Z",
+        "description": "喜歡蒐集各式各樣的泰迪熊🧸 是熊弟弟的媽媽非常喜歡看喵的影片,喵是熊孩子的父母",
+        "id": "850349756559654912",
+        "name": "庭熊🐻🐈🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933487049551781888/-owYWBd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 6168,
+          "like_count": 33794,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 7844
+        },
+        "username": "vg2ut",
+        "verified": false
+      }
+    ]
+  }
+}

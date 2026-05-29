@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2055848749038272857",
+    "created_at": "2026-05-17T03:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055849578952294573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1960198897827282944",
+          "start": 0,
+          "username": "Nya_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055849578952294573",
+    "in_reply_to_user_id": "1960198897827282944",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055848749038272857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nya_QwQ xm🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2055848749038272857",
+        "created_at": "2026-05-17T03:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055849578952294573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1960198897827282944",
+              "start": 0,
+              "username": "Nya_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055849578952294573",
+        "in_reply_to_user_id": "1960198897827282944",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055848749038272857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nya_QwQ xm🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960198897827282944",
+        "conversation_id": "2055848749038272857",
+        "created_at": "2026-05-17T03:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055848749038272857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055848749038272857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈说能出钱给我术..(◎_◎;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 397,
+          "like_count": 4453,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 635
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "顺男/友跨/⚠️负面警告⚠️/hrt260126-260508",
+        "id": "1960198897827282944",
+        "location": "猫猫の窝",
+        "name": "nya",
+        "pinned_tweet_id": "2041592755416395999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039372266392477696/TKfpldWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 946,
+          "like_count": 7274,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 1163
+        },
+        "username": "Nya_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

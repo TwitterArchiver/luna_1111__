@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2041130181268828666",
+    "created_at": "2026-04-06T12:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041133646938095854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1758843055669673985",
+          "start": 0,
+          "username": "harehaneyuike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041133646938095854",
+    "in_reply_to_user_id": "1758843055669673985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041130181268828666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@harehaneyuike 喝！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041130169109495808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFONEw4awAAT_eW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2041130181268828666",
+        "created_at": "2026-04-06T12:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041133646938095854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1758843055669673985",
+              "start": 0,
+              "username": "harehaneyuike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041133646938095854",
+        "in_reply_to_user_id": "1758843055669673985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041130181268828666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@harehaneyuike 喝！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041130169109495808"
+          ]
+        },
+        "author_id": "1758843055669673985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041130181268828666",
+        "created_at": "2026-04-06T12:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041130181268828666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgqk7RWCxf",
+              "end": 32,
+              "expanded_url": "https://x.com/harehaneyuike/status/2041130181268828666/photo/1",
+              "media_key": "3_2041130169109495808",
+              "start": 9,
+              "url": "https://t.co/hgqk7RWCxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041130181268828666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒个屁的酒，喝！ https://t.co/hgqk7RWCxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "pinned_tweet_id": "2037922859939668268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 226,
+          "like_count": 784,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 143
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T13:17:36.000Z",
+        "description": "不安です | MtF｜ISFP｜本体是仓鼠｜精神状态未知｜不保证哪天会消失",
+        "id": "1758843055669673985",
+        "location": "アビドス",
+        "name": "ハレハネ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846813990040883200/qSq0AH6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 214,
+          "like_count": 9965,
+          "listed_count": 2,
+          "media_count": 482,
+          "tweet_count": 1857
+        },
+        "username": "harehaneyuike",
+        "verified": false
+      }
+    ]
+  }
+}

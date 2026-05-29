@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2044026382628598223",
+    "created_at": "2026-04-14T14:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044058637312696525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044058637312696525",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044026382628598223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot 一直都是深色模式喵（不伤眼+省电😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2044026382628598223",
+        "created_at": "2026-04-14T14:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044058637312696525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044058637312696525",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044026382628598223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot 一直都是深色模式喵（不伤眼+省电😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2044026380623683584"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "conversation_id": "2044026382628598223",
+        "created_at": "2026-04-14T12:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044026382628598223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044026382628598223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们玩手机会调成深色模式吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 264,
+          "like_count": 1566,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 285
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/六国史观/1644史观/四分之一个布尔什维克/📕🔪/本账所有言论由葱娘酱和猫在雷指使、发布，本人毫不知情/激化矛盾，全面加速/冷知识：我不是习近平本人/#我的史观 #神左合流/我是中国人，我支持台湾独立",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 85,
+                "tag": "我的史观"
+              },
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "神左合流"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deerjisiquanjia.com",
+                "end": 23,
+                "expanded_url": "http://deerjisiquanjia.com",
+                "start": 0,
+                "url": "https://t.co/ZQF7vW5ZMa"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "毛主席纪念堂｜愿文明的春风吹走西伯利亚的严寒",
+        "name": "羽泽东🚩🇮🇷——苏式基本盘 彭丽媛有个好老公",
+        "pinned_tweet_id": "2043628686713459000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043839678428925952/OzBFm314_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 1529,
+          "like_count": 22369,
+          "listed_count": 14,
+          "media_count": 870,
+          "tweet_count": 17720
+        },
+        "url": "https://t.co/ZQF7vW5ZMa",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

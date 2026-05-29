@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2053031655317643676",
+    "created_at": "2026-05-09T08:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053031655317643676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangtao1729/st…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/yangtao1729/status/2053006958450594194",
+          "start": 25,
+          "url": "https://t.co/YiTn4OWh7m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053031655317643676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053006958450594194",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我可真没用诶，帮不了别人什么还老是麻烦别人（😖） https://t.co/YiTn4OWh7m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2053031655317643676",
+        "created_at": "2026-05-09T08:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053031655317643676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangtao1729/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/yangtao1729/status/2053006958450594194",
+              "start": 25,
+              "url": "https://t.co/YiTn4OWh7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053031655317643676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053006958450594194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可真没用诶，帮不了别人什么还老是麻烦别人（😖） https://t.co/YiTn4OWh7m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914766734420279296",
+        "conversation_id": "2053006958450594194",
+        "created_at": "2026-05-09T06:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053006958450594194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053006958450594194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可真没用诶，帮不了别人什么还老是麻烦别人（😖）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 应该算是半个家长党？ | 重度社恐 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 376,
+          "like_count": 3747,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 580
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T19:42:30.000Z",
+        "description": "♂男\n         永远的@XiShangguan                                 不要离开我不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要不要！我大哥@yangtao1708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "XiShangguan"
+              },
+              {
+                "end": 157,
+                "start": 145,
+                "username": "yangtao1708"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangtao1729",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangtao1729",
+                "start": 0,
+                "url": "https://t.co/MjsQHi05n5"
+              }
+            ]
+          }
+        },
+        "id": "1914766734420279296",
+        "location": "下界",
+        "name": "白骑士与刺玫瑰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000433652501774336/VpJJuMMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 223,
+          "like_count": 16422,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 8008
+        },
+        "url": "https://t.co/MjsQHi05n5",
+        "username": "yangtao1729",
+        "verified": false
+      }
+    ]
+  }
+}
