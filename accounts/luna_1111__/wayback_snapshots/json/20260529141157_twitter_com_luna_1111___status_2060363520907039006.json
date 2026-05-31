@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2060363071479292137",
+    "created_at": "2026-05-29T14:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060363520907039006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060363520907039006",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060363071479292137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2060363071479292137",
+        "created_at": "2026-05-29T14:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060363520907039006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060363520907039006",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060363071479292137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2060363071479292137",
+        "created_at": "2026-05-29T14:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060363071479292137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senzhiwu/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/senzhiwu/status/2060350170920001776",
+              "start": 14,
+              "url": "https://t.co/ICGJP3rgV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060363071479292137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060350170920001776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被说了呜呜，要剪成中性的了 https://t.co/ICGJP3rgV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 422,
+          "like_count": 5553,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 726
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "叫我森森就好啦｜愿望是在幸福里死去｜日常孤独缺爱ing｜喜欢一切可爱的东西｜生日2008｜mtx🏳️‍⚧️｜小证偷吃｜entp-t｜hrt 3.29 ｜欢迎互fo喵！｜炒稀饭@6mhzph｜🇲🇾留学生/常驻南京 欢迎来找我玩哦 可以把我当树洞喵，虽然可能不太会安慰人呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "6mhzph"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057469282360107008/wkkOtOfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 344,
+          "like_count": 2364,
+          "listed_count": 4,
+          "media_count": 103,
+          "tweet_count": 2179
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}
