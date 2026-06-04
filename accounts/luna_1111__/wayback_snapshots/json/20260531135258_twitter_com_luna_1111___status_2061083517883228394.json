@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2061024842757849315",
+    "created_at": "2026-05-31T13:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061083517883228394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1733465838144098304",
+          "start": 0,
+          "username": "Dr_HXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061083517883228394",
+    "in_reply_to_user_id": "1733465838144098304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061083323276116246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dr_HXQ 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2061024842757849315",
+        "created_at": "2026-05-31T13:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061083517883228394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1733465838144098304",
+              "start": 0,
+              "username": "Dr_HXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061083517883228394",
+        "in_reply_to_user_id": "1733465838144098304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061083323276116246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dr_HXQ 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733465838144098304",
+        "conversation_id": "2061024842757849315",
+        "created_at": "2026-05-31T13:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061083323276116246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061083323276116246",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061024842757849315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 睁眼进会议闭眼睡觉\n老师老师网卡了\n不过搞笑的是我们要开摄像头上体育课orz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 435,
+          "like_count": 5869,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 769
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T12:37:40.000Z",
+        "description": "",
+        "id": "1733465838144098304",
+        "name": "Gpecialities",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026719866254675968/-s0Vtp9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 110
+        },
+        "username": "Dr_HXQ",
+        "verified": false
+      }
+    ]
+  }
+}

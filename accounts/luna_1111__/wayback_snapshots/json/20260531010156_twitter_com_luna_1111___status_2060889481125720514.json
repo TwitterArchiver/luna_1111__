@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2060889481125720514",
+    "created_at": "2026-05-31T01:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060889481125720514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/StarryNocts/st…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/StarryNocts/status/2060856530510209276",
+          "start": 40,
+          "url": "https://t.co/lAthME1iFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060889481125720514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060856530510209276",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是？你们一个个天天在网上说自己不好看，结果一发照片萌的要死，搞咩啊？？？？？ https://t.co/lAthME1iFC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2060889481125720514",
+        "created_at": "2026-05-31T01:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060889481125720514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/StarryNocts/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/StarryNocts/status/2060856530510209276",
+              "start": 40,
+              "url": "https://t.co/lAthME1iFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060889481125720514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060856530510209276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是？你们一个个天天在网上说自己不好看，结果一发照片萌的要死，搞咩啊？？？？？ https://t.co/lAthME1iFC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2060856530510209276",
+        "created_at": "2026-05-30T22:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060856530510209276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshino_2333/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/yoshino_2333/status/2060841979114856945",
+              "start": 40,
+              "url": "https://t.co/oBNiaeLfI6"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2060856530510209276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 12,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060841979114856945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是？你们一个个天天在网上说自己不好看，结果一发照片萌的要死，搞咩啊？？？？？ https://t.co/oBNiaeLfI6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 427,
+          "like_count": 5714,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 751
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜最好的大家@xiey57828 @LeavesMao ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "xiey57828"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 639,
+          "like_count": 4127,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 6927
+        },
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

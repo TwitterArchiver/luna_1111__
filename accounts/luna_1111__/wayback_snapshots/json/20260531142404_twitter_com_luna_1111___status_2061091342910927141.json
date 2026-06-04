@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2061091209263653133",
+    "created_at": "2026-05-31T14:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061091342910927141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060945493195116549",
+          "start": 0,
+          "username": "buzhimingdeyiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061091342910927141",
+    "in_reply_to_user_id": "2060945493195116549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061091209263653133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzhimingdeyiai 🥺抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2061091209263653133",
+        "created_at": "2026-05-31T14:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061091342910927141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060945493195116549",
+              "start": 0,
+              "username": "buzhimingdeyiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061091342910927141",
+        "in_reply_to_user_id": "2060945493195116549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061091209263653133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzhimingdeyiai 🥺抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060945493195116549",
+        "conversation_id": "2061091209263653133",
+        "created_at": "2026-05-31T14:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061091209263653133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061091209263653133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候能去死啊，过的没别好，学的也没别人好，干什么什么都不行，什么倒霉事情全在我身上，早点死算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 435,
+          "like_count": 5881,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 771
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T04:47:23.000Z",
+        "description": "我还是我。❌见证。日常推号｜偶尔精神病发作（别理）。晶哥我错了，我给你跪下了，我会做个正常人的",
+        "id": "2060945493195116549",
+        "name": "不知名の翌🍥🎊🎉🍟",
+        "pinned_tweet_id": "2061006817203720422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061034067236163590/TKRptDyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 58,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 89
+        },
+        "username": "buzhimingdeyiai",
+        "verified": false
+      }
+    ]
+  }
+}
