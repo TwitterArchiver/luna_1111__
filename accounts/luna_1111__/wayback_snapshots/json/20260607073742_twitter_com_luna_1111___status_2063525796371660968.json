@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2063481328671338790",
+    "created_at": "2026-06-07T07:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063525796371660968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735728536827334657",
+          "start": 0,
+          "username": "SakurasakaRiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063525796371660968",
+    "in_reply_to_user_id": "1735728536827334657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063481328671338790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurasakaRiko 我自己对味道的要求比较低 所以为了皮肤还有健康着想 我饮料都是尽量选无糖或者低糖的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2063481328671338790",
+        "created_at": "2026-06-07T07:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063525796371660968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735728536827334657",
+              "start": 0,
+              "username": "SakurasakaRiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063525796371660968",
+        "in_reply_to_user_id": "1735728536827334657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063481328671338790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurasakaRiko 我自己对味道的要求比较低 所以为了皮肤还有健康着想 我饮料都是尽量选无糖或者低糖的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735728536827334657",
+        "conversation_id": "2063481328671338790",
+        "created_at": "2026-06-07T04:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063481328671338790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063481328671338790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1241,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至今无法理解喝无糖可乐的人（无恶意\n\n感觉喝一口无糖可乐之后，那种回甜会回上来一股代糖的苦味，我是来喝小甜水的结果你给我留下来一嘴苦味算什么啦！\n\n我也不是没买到过好喝的无糖饮料，比如无糖版本的王老吉基本喝不出区别。但是可乐的无糖版本真的会回一股很难受的苦味，不知道是用料不行还是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 459,
+          "like_count": 6590,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 868
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語/中文/EN OK 喜欢玩各种音游的普通玩家。 maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有。你可以称呼我为riko或者璃子。全球各地旅游中。",
+        "id": "1735728536827334657",
+        "location": "万达广场附近",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2045383031490560228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054559274341392384/IBqpzPWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 168,
+          "like_count": 4363,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 1456
+        },
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

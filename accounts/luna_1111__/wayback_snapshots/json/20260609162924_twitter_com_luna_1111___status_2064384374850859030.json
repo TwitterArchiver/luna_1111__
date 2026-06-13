@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2064372533923557391",
+    "created_at": "2026-06-09T16:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064384374850859030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946593949180993536",
+          "start": 0,
+          "username": "RogerDisboard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064384374850859030",
+    "in_reply_to_user_id": "1946593949180993536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064382629609357683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RogerDisboard 純潔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2064372533923557391",
+        "created_at": "2026-06-09T16:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064384374850859030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064384374850859030",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064382629609357683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 純潔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2064372533923557391",
+        "created_at": "2026-06-09T16:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064382629609357683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064382629609357683",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064372533923557391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | ISTP-T | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "pinned_tweet_id": "2064372533923557391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 460,
+          "like_count": 6751,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 890
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我将继续成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2064370143929790700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1092,
+          "like_count": 8625,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 2213
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

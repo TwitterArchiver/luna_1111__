@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2063276231899107394",
+    "created_at": "2026-06-06T17:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063307768656748784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1574064767928795136",
+          "start": 0,
+          "username": "DraTohru_Backup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063307768656748784",
+    "in_reply_to_user_id": "1574064767928795136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063307376019771634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DraTohru_Backup 哦哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2063276231899107394",
+        "created_at": "2026-06-06T17:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063307768656748784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1574064767928795136",
+              "start": 0,
+              "username": "DraTohru_Backup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063307768656748784",
+        "in_reply_to_user_id": "1574064767928795136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063307376019771634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DraTohru_Backup 哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574064767928795136",
+        "conversation_id": "2063276231899107394",
+        "created_at": "2026-06-06T17:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063307376019771634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063307376019771634",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063306047561826502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 是我主号被Ghost Ban了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "pinned_tweet_id": "2063274391748698491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 458,
+          "like_count": 6534,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 858
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T15:54:45.000Z",
+        "description": "［😋DraTohru is working as backup mode］守りたいこの世界に、青空のラプソディ———！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/dratohru_xln",
+                "end": 23,
+                "expanded_url": "https://x.com/dratohru_xln",
+                "start": 0,
+                "url": "https://t.co/wrLsyHnoe0"
+              }
+            ]
+          }
+        },
+        "id": "1574064767928795136",
+        "location": "slot_b",
+        "name": "小龙娘トールの逃生仓",
+        "pinned_tweet_id": "2063211384331206909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054207336915632128/2OjH4ZZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 416,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/wrLsyHnoe0",
+        "username": "DraTohru_Backup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2063984944418824595",
+    "created_at": "2026-06-08T14:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063984944418824595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiey57828/stat…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/xiey57828/status/2063984016303538610",
+          "start": 76,
+          "url": "https://t.co/NMAGouSCTp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063984944418824595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063984016303538610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我各个学科水平：\n语文：牛逼\n数学：sin cos tan\n英语：hi\n物理：量子力学\n化学：C18H24O2\n地理：能看懂地图\n政治：？\n生物：拉屎 https://t.co/NMAGouSCTp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2063984944418824595",
+        "created_at": "2026-06-08T14:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063984944418824595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/xiey57828/status/2063984016303538610",
+              "start": 76,
+              "url": "https://t.co/NMAGouSCTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063984944418824595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063984016303538610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：牛逼\n数学：sin cos tan\n英语：hi\n物理：量子力学\n化学：C18H24O2\n地理：能看懂地图\n政治：？\n生物：拉屎 https://t.co/NMAGouSCTp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2063984016303538610",
+        "created_at": "2026-06-08T13:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063984016303538610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luo_240110/sta…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/luo_240110/status/2063955640536719791",
+              "start": 76,
+              "url": "https://t.co/5VTrx1ZrUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063984016303538610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063955640536719791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：会说神了\n数学：级数\n英语：helloworld\n物理：只会基础力学\n化学：以前的神\n地理：能看懂地图\n政治：😱\n生物：做爱🤤 https://t.co/5VTrx1ZrUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 462,
+          "like_count": 6689,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 877
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "含糖反跨顺男🍑出生08.02.16缺爱b，臭郭楠丨喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！精神状态超好！？😉丨双相，视力残疾丨谁要人喜欢了？真男人就该独自前行！丨语言逻辑混乱",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 423,
+          "like_count": 8119,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 3008
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}
