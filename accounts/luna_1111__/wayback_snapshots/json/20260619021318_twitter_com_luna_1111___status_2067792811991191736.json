@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2067630815534608793",
+    "created_at": "2026-06-19T02:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067792811991191736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059085211150028800",
+          "start": 0,
+          "username": "uzirsairboi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067792811991191736",
+    "in_reply_to_user_id": "2059085211150028800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067771974395515336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uzirsairboi233 13: 记仇\n15: 独居"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2067630815534608793",
+        "created_at": "2026-06-19T02:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067792811991191736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059085211150028800",
+              "start": 0,
+              "username": "uzirsairboi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067792811991191736",
+        "in_reply_to_user_id": "2059085211150028800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067771974395515336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uzirsairboi233 13: 记仇\n15: 独居"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059085211150028800",
+        "conversation_id": "2067630815534608793",
+        "created_at": "2026-06-19T00:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067771974395515336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067771974395515336",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067630815534608793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 13 15"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | ISTP-T | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 462,
+          "like_count": 7273,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 971
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T01:34:46.000Z",
+        "description": "一个正在学习理论的托洛茨基主义者 🚩｜顺直友跨同 🏳️‍⚧️🏳️‍🌈｜国际主义者🌐｜诊断出OCD😢| 欢迎互关带带小资历🥹🥰",
+        "id": "2059085211150028800",
+        "name": "Saoirse✭🚩",
+        "pinned_tweet_id": "2060542523219833202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063457106926444544/kAYzGCVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 126,
+          "like_count": 1083,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "uzirsairboi233",
+        "verified": false
+      }
+    ]
+  }
+}

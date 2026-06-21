@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2068049180179009663",
+    "created_at": "2026-06-20T01:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068148769527619805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873352140246466560",
+          "start": 0,
+          "username": "Fafa881869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068148769527619805",
+    "in_reply_to_user_id": "1873352140246466560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068049180179009663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fafa881869 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2068049180179009663",
+        "created_at": "2026-06-20T01:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068148769527619805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873352140246466560",
+              "start": 0,
+              "username": "Fafa881869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068148769527619805",
+        "in_reply_to_user_id": "1873352140246466560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068049180179009663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fafa881869 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873352140246466560",
+        "conversation_id": "2068049180179009663",
+        "created_at": "2026-06-19T19:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068049180179009663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068049180179009663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "缺爱了，想要抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | ISTP-T | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 463,
+          "like_count": 7416,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 988
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T12:55:40.000Z",
+        "description": "(｡･∀･)ﾉﾞ你好，叫我fafa就行啦\n独游爱好者，平时爱玩OW或者VRC\n有双相情感障碍，窝是泛性恋\n喜欢收集各种梗图和逆天图（收集癖）\n喜欢各种各样可爱的小东西=w=\n什么圈子都知道一些（成分超级复杂）超喜欢纯爱！对所有人保持善意OwO\n希望每个人都可以好好的活下去…\n\n还有！祝大家每天都开开心心顺顺利利的呀！",
+        "id": "1873352140246466560",
+        "location": "沃尔库塔-5",
+        "name": "Fafa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000434774960377856/hYn7tsN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 383,
+          "like_count": 2982,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1203
+        },
+        "url": "",
+        "username": "Fafa881869",
+        "verified": false
+      }
+    ]
+  }
+}

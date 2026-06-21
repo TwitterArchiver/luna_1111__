@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2067612425315086565",
+    "created_at": "2026-06-18T14:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067612425315086565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kunkunyuzaizai…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kunkunyuzaizai/status/2067608426482725353",
+          "start": 5,
+          "url": "https://t.co/9W2vz5X6k2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067612425315086565",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067608426482725353",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "+1 🥲 https://t.co/9W2vz5X6k2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2067612425315086565",
+        "created_at": "2026-06-18T14:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067612425315086565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kunkunyuzaizai…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kunkunyuzaizai/status/2067608426482725353",
+              "start": 5,
+              "url": "https://t.co/9W2vz5X6k2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067612425315086565",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067608426482725353",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "+1 🥲 https://t.co/9W2vz5X6k2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2067608426482725353",
+        "created_at": "2026-06-18T14:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067608426482725353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067608426482725353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做什么可以发泄情绪\n我现在不是哭就是麻木"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | ISTP-T | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 463,
+          "like_count": 7250,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 966
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n好累\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 35,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 12,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 65,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 42,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 3107,
+          "like_count": 47413,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 3320
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

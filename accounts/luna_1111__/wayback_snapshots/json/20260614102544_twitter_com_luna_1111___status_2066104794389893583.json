@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2066103460278231541",
+    "created_at": "2026-06-14T10:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066104794389893583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060632417153503234",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066104794389893583",
+    "in_reply_to_user_id": "2060632417153503234",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066103460278231541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure Makao"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2066103460278231541",
+        "created_at": "2026-06-14T10:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066104794389893583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060632417153503234",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066104794389893583",
+        "in_reply_to_user_id": "2060632417153503234",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066103460278231541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure Makao"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2066103458034274304"
+          ]
+        },
+        "author_id": "2060632417153503234",
+        "conversation_id": "2066103460278231541",
+        "created_at": "2026-06-14T10:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066103460278231541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066103460278231541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你认为澳门🇲🇴的英文应该是？\n你認為澳門🇲🇴的英文應該是？\nWhat do you think the English of Macau🇲🇴 should be?\nQual acha que deve ser o inglês de Macau🇲🇴?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | ISTP-T | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "pinned_tweet_id": "2064717674261688342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 465,
+          "like_count": 7039,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 939
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬|中三学生|14岁|MtF🏳️‍⚧️|尚未HRT🍥|世界计划🎹|朝比奈まふゆ激推|无雷点|不od|可键政|社会自由主义|zh-SG|语言🇹🇼🇨🇳🇺🇸🇯🇵🇫🇷|世界语🌏学习中|人造语言格里芬语研究员|格里芬联邦共和国总统|政府官网https://t.co/o8LDTBhX67",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 147,
+                "expanded_url": "http://gov-urg.net",
+                "start": 124,
+                "url": "https://t.co/o8LDTBhX67"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/RUiH6CfxUm"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2061802655391866976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 841,
+          "like_count": 2311,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/RUiH6CfxUm",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

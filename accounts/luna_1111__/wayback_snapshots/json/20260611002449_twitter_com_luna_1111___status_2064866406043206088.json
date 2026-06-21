@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2064717674261688342",
+    "created_at": "2026-06-11T00:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T01:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064866406043206088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059085211150028800",
+          "start": 0,
+          "username": "uzirsairboi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064866406043206088",
+    "in_reply_to_user_id": "2059085211150028800",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064861904431186404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uzirsairboi233 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2064717674261688342",
+        "created_at": "2026-06-11T00:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064866406043206088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059085211150028800",
+              "start": 0,
+              "username": "uzirsairboi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064866406043206088",
+        "in_reply_to_user_id": "2059085211150028800",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064861904431186404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uzirsairboi233 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059085211150028800",
+        "conversation_id": "2064717674261688342",
+        "created_at": "2026-06-11T00:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064861904431186404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064861904431186404",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064717674261688342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | ISTP-T | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "pinned_tweet_id": "2064717674261688342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 458,
+          "like_count": 6815,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 912
+        },
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T01:34:46.000Z",
+        "description": "一个正在学习理论的托洛茨基主义者 🚩｜顺直友跨同 🏳️‍⚧️🏳️‍🌈｜国际主义者🌐｜诊断出OCD😢| 欢迎互关带带小资历🥹🥰",
+        "id": "2059085211150028800",
+        "name": "Saoirse✭🚩",
+        "pinned_tweet_id": "2060542523219833202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063457106926444544/kAYzGCVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 93,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 317
+        },
+        "username": "uzirsairboi233",
+        "verified": false
+      }
+    ]
+  }
+}
