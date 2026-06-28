@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2069271948245496195",
+    "created_at": "2026-06-23T07:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069322036124512681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1280001743162609664",
+          "start": 0,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069322036124512681",
+    "in_reply_to_user_id": "1280001743162609664",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069271948245496195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poca2381 sudo systemctl stop anxiety"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2069271948245496195",
+        "created_at": "2026-06-23T07:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069322036124512681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069322036124512681",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069271948245496195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 sudo systemctl stop anxiety"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2069271948245496195",
+        "created_at": "2026-06-23T04:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069271948245496195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069271948245496195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "焦虑这个插件从哪里删除"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | ISTP-T | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 465,
+          "like_count": 7641,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1003
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22214,
+          "following_count": 9566,
+          "like_count": 152572,
+          "listed_count": 52,
+          "media_count": 5004,
+          "tweet_count": 52223
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

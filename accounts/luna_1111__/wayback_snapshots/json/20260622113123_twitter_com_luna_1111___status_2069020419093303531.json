@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2069008874464858597",
+    "created_at": "2026-06-22T11:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069020419093303531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069020419093303531",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069008874464858597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX 难道不是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2069008874464858597",
+        "created_at": "2026-06-22T11:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069020419093303531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069020419093303531",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069008874464858597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 难道不是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055095022425722880",
+        "conversation_id": "2069008874464858597",
+        "created_at": "2026-06-22T10:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069008874464858597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069008874464858597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "得了，现在我生物爹又叫我不要翻墙🥹他以为是外网害了我🫠，气死了😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | ISTP-T | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 465,
+          "like_count": 7601,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 999
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中，不发帖就是没手机了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|家暴党+年龄党|\n🎂11.13.2011🍰|暂时无法Od💊|159cm52kg|INFP-T|重度社恐|\n对象💖@Lvmaosamaovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/AjAoii7tnc"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "武汉市精神卫生中心(二七院区)🤯",
+        "name": "✟𝗨𝗻𝗸✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 1105,
+          "like_count": 2709,
+          "listed_count": 14,
+          "media_count": 86,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/AjAoii7tnc",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}
