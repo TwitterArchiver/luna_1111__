@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2071559749263626507",
+    "created_at": "2026-06-29T11:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071559749263626507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moonlight_ruri…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/moonlight_ruri/status/2071492361914585160",
+          "start": 12,
+          "url": "https://t.co/f0qmXm636S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071559749263626507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071492361914585160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来不是只有我是这样😞 https://t.co/f0qmXm636S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2071559749263626507",
+        "created_at": "2026-06-29T11:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071559749263626507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moonlight_ruri…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/moonlight_ruri/status/2071492361914585160",
+              "start": 12,
+              "url": "https://t.co/f0qmXm636S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071559749263626507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071492361914585160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来不是只有我是这样😞 https://t.co/f0qmXm636S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763034943599607808",
+        "conversation_id": "2071492361914585160",
+        "created_at": "2026-06-29T07:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071492361914585160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071492361914585160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "求助大家！我本人非常社恐 ，每天都有大把的空闲时间 ，但几乎不敢出门 ，也不想出门 ，在家实在不知道干什么了 感觉人生好没意思啊！每天都好空虚 。\n只能在线上偶尔有人愿意和我聊天 ，但也只是短暂的， 或许只有在网上这样宣泄我才能好受一点吧 ！\n本人还特别敏感 ，我真的怀疑自己有非常非常非常严重的分离焦虑， 稍微冷落一点就觉得要被抛弃了一样 ，应激的我一直在哭 ，我也确实特别压抑， 现实真的特别怕人， 甚至不用跟人接触 ，光是走出房间都呼吸困难了， 跟人交流更是会直接吓晕 ！感觉自己已经出问题了， 但这样一直在网上口嗨也不是个办法 ，请问大家我要怎么办！！😭😭😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 769,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求助大家！我本人非常社恐 ，每天都有大把的空闲时间 ，但几乎不敢出门 ，也不想出门 ，在家实在不知道干什么了 感觉人生好没意思啊！每天都好空虚 。\n只能在线上偶尔有人愿意和我聊天 ，但也只是短暂的， 或许只有在网上这样宣泄我才能好受一点吧 ！\n本人还特别敏感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 483,
+          "like_count": 7987,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1047
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "location": "千葉縣｜蓝v必回请私信｜x telegram同id",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11733,
+          "following_count": 750,
+          "like_count": 1185,
+          "listed_count": 27,
+          "media_count": 384,
+          "tweet_count": 2399
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

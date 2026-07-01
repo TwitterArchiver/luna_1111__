@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2071630079588020391",
+    "created_at": "2026-06-29T16:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071630079588020391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047679401400373248",
+          "start": 3,
+          "username": "Hysteriadie0331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071630079588020391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071624875756941528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hysteriadie0331: 只要真正的纯粹的朋友..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2071630079588020391",
+        "created_at": "2026-06-29T16:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071630079588020391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047679401400373248",
+              "start": 3,
+              "username": "Hysteriadie0331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071630079588020391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071624875756941528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hysteriadie0331: 只要真正的纯粹的朋友..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047679401400373248",
+        "conversation_id": "2071624875756941528",
+        "created_at": "2026-06-29T16:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071624875756941528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071624875756941528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只要真正的纯粹的朋友..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 483,
+          "like_count": 8027,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1052
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:10:22.000Z",
+        "description": "2009｜mtf｜中度GD🏳️‍⚧️｜间断含糖25.05.01🍥｜易性症病历｜家长反对党｜天残党｜INFP-T｜BPD｜一个坏孩子｜温柔体贴善良｜社交回避-自闭倾向｜疑似精神病友｜同类fo｜请和咱交朋友嘛~｜咱不喜欢屏蔽人，被屏蔽会特别难过...｜一只小透明｜恋人@ting_xia91591",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 132,
+                "username": "ting_xia91591"
+              }
+            ]
+          }
+        },
+        "id": "2047679401400373248",
+        "location": "Internet",
+        "name": "宋汐雪🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2062597586629136506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062933678091907073/WVEosNLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 371,
+          "like_count": 93,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "Hysteriadie0331",
+        "verified": false
+      }
+    ]
+  }
+}

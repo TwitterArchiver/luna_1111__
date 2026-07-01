@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2070874052768698825",
+    "created_at": "2026-06-27T14:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070874669830516881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 26,
+          "id": "2036459029237833728",
+          "start": 16,
+          "username": "HMiku2333"
+        },
+        {
+          "end": 37,
+          "id": "1676634704878129152",
+          "start": 27,
+          "username": "AotraWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070874669830516881",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070874052768698825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 @HMiku2333 @AotraWong 细节左边有凝胶（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2070874037413384193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL049w6akAEF-sP.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2070874052768698825",
+        "created_at": "2026-06-27T14:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070874669830516881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 26,
+              "id": "2036459029237833728",
+              "start": 16,
+              "username": "HMiku2333"
+            },
+            {
+              "end": 37,
+              "id": "1676634704878129152",
+              "start": 27,
+              "username": "AotraWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070874669830516881",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070874052768698825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 @HMiku2333 @AotraWong 细节左边有凝胶（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070874037413384193"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070874052768698825",
+        "created_at": "2026-06-27T14:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070874052768698825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BuoXdlgGR",
+              "end": 33,
+              "expanded_url": "https://x.com/RainEngine2024/status/2070874052768698825/photo/1",
+              "media_key": "3_2070874037413384193",
+              "start": 10,
+              "url": "https://t.co/4BuoXdlgGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070874052768698825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "东莞国贸面基贴贴~ https://t.co/4BuoXdlgGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 479,
+          "like_count": 7906,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1037
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2038233746755948881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10587,
+          "following_count": 975,
+          "like_count": 95479,
+          "listed_count": 26,
+          "media_count": 1949,
+          "tweet_count": 13386
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-24T15:04:15.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/15|药娘小资历 | 170 厘米 | 60公斤| 没fo的私信 | 不抽烟 |双相情感障碍|成分复杂|飞友|日本语|English|中文｜有小证｜含糖中｜❤️@C_lier_fufu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 103,
+                "username": "C_lier_fufu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hmiku2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hmiku2333",
+                "start": 0,
+                "url": "https://t.co/hD487V0nKB"
+              }
+            ]
+          }
+        },
+        "id": "2036459029237833728",
+        "name": "Yuri🍥🏳️‍⚧",
+        "pinned_tweet_id": "2063994505242771568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070549945539756032/xU5q1B5r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 301,
+          "like_count": 3533,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/hD487V0nKB",
+        "username": "HMiku2333",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "也许是个大姐姐 | 2008 May | 🏳️‍⚧️ | 物化政 | 背景：虎门港 | 校心理社前部长 | \nLCNA总管理员 | DPS MC服务器服主 |\nIT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra Wong 芷姗",
+        "pinned_tweet_id": "2058188566497493045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069980335128113152/BDqo9jSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 1103,
+          "like_count": 24010,
+          "listed_count": 5,
+          "media_count": 488,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      }
+    ]
+  }
+}

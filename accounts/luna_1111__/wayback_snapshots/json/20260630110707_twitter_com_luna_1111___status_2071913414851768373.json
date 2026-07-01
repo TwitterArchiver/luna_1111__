@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2071811914221375788",
+    "created_at": "2026-06-30T11:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071913414851768373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880569563781500929",
+          "start": 0,
+          "username": "DontLeaveMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071913414851768373",
+    "in_reply_to_user_id": "1880569563781500929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071811914221375788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DontLeaveMao 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2071811914221375788",
+        "created_at": "2026-06-30T11:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071913414851768373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880569563781500929",
+              "start": 0,
+              "username": "DontLeaveMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071913414851768373",
+        "in_reply_to_user_id": "1880569563781500929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071811914221375788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DontLeaveMao 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880569563781500929",
+        "conversation_id": "2071811914221375788",
+        "created_at": "2026-06-30T04:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071811914221375788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LeavesMao/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/LeavesMao/status/2071811823117242554",
+              "start": 3,
+              "url": "https://t.co/89b5pLDLDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071811914221375788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071811823117242554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕 https://t.co/89b5pLDLDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 484,
+          "like_count": 8065,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1054
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T10:55:18.000Z",
+        "description": "@LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1880569563781500929",
+        "location": "找不到猫窝…",
+        "name": "🍼猫猫猫叶TheCat🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051610151854252033/MqlZuouJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 76,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "DontLeaveMao",
+        "verified": false
+      }
+    ]
+  }
+}
