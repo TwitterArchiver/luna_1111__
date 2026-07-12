@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2075235231402226012",
+    "created_at": "2026-07-09T15:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075241129923301393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052592592244858880",
+          "start": 0,
+          "username": "honoka_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075241129923301393",
+    "in_reply_to_user_id": "2052592592244858880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075235231402226012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honoka_520 🥺🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2075235231402226012].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2075235231402226012",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2075235231402226012"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2075235231402226012",
+        "created_at": "2026-07-09T15:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075241129923301393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052592592244858880",
+              "start": 0,
+              "username": "honoka_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075241129923301393",
+        "in_reply_to_user_id": "2052592592244858880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075235231402226012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honoka_520 🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 503,
+          "like_count": 8560,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1123
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T03:33:20.000Z",
+        "description": "Enby（They/Them/It）/我期待着…",
+        "id": "2052592592244858880",
+        "location": "你心里",
+        "name": "穗果🌾",
+        "pinned_tweet_id": "2061678192042324339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052594559608315904/olu6etuK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 287,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 943
+        },
+        "url": "",
+        "username": "honoka_520",
+        "verified": false
+      }
+    ]
+  }
+}

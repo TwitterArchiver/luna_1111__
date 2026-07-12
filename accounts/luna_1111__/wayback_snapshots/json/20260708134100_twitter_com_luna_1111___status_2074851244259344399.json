@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2074841351125114988",
+    "created_at": "2026-07-08T13:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074851244259344399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2024068861134528512",
+          "start": 0,
+          "username": "1gdsb"
+        },
+        {
+          "end": 14,
+          "id": "1546431985086009344",
+          "start": 7,
+          "username": "NL8526"
+        },
+        {
+          "end": 25,
+          "id": "1887391023976038400",
+          "start": 15,
+          "username": "xiey57828"
+        },
+        {
+          "end": 39,
+          "id": "1153430387504373764",
+          "start": 26,
+          "username": "xiangcai_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074851244259344399",
+    "in_reply_to_user_id": "2024068861134528512",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074850814900973833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1gdsb @NL8526 @xiey57828 @xiangcai_nya 9999999999"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2074841351125114988",
+        "created_at": "2026-07-08T13:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074851244259344399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2024068861134528512",
+              "start": 0,
+              "username": "1gdsb"
+            },
+            {
+              "end": 14,
+              "id": "1546431985086009344",
+              "start": 7,
+              "username": "NL8526"
+            },
+            {
+              "end": 25,
+              "id": "1887391023976038400",
+              "start": 15,
+              "username": "xiey57828"
+            },
+            {
+              "end": 39,
+              "id": "1153430387504373764",
+              "start": 26,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074851244259344399",
+        "in_reply_to_user_id": "2024068861134528512",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074850814900973833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1gdsb @NL8526 @xiey57828 @xiangcai_nya 9999999999"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024068861134528512",
+        "conversation_id": "2074841351125114988",
+        "created_at": "2026-07-08T13:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074850814900973833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            },
+            {
+              "end": 18,
+              "id": "1887391023976038400",
+              "start": 8,
+              "username": "xiey57828"
+            },
+            {
+              "end": 32,
+              "id": "1153430387504373764",
+              "start": 19,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074850814900973833",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074845783346815086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 @xiey57828 @xiangcai_nya 888888888888"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 495,
+          "like_count": 8545,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1106
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "mtf/x？ 悲惨的初三生一枚\n不o不割纯发癫\n小号@ovvvvvvvvvvomtf\n出厂日期2011.8.31（开学前一天悲:(\n身高179 59.6kg\n玩cfm（好老的游戏）mc java版 逆战未来 异环 roblox\nhrt2026.4.15 同类100%回fo\n其他不想写",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "ovvvvvvvvvvomtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDhbvO"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2062541504661610927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 352,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/nDeqjDhbvO",
+        "username": "1gdsb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3473,
+          "following_count": 918,
+          "like_count": 20769,
+          "listed_count": 6,
+          "media_count": 232,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好&自负🐶\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱所有的一切我都可以释怀，唯独性别…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 523,
+          "like_count": 10594,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 4205
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2074084255555268761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073611435129868288/Wr4hsJiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 303,
+          "like_count": 258,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      }
+    ]
+  }
+}

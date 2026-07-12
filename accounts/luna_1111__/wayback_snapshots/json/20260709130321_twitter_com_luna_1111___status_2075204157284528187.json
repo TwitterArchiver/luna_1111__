@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2075204157284528187",
+    "created_at": "2026-07-09T13:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075204157284528187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1713713115270139904",
+          "start": 3,
+          "username": "shirochankawa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075204157284528187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074651403763749119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shirochankawa1: 鹦鹉抑郁了会拔自己的羽毛，跟他说你再这样我就不养你了也没什么意义，鹦鹉听到了只会更难过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2075204157284528187",
+        "created_at": "2026-07-09T13:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075204157284528187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1713713115270139904",
+              "start": 3,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075204157284528187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074651403763749119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shirochankawa1: 鹦鹉抑郁了会拔自己的羽毛，跟他说你再这样我就不养你了也没什么意义，鹦鹉听到了只会更难过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2074651403763749119",
+        "created_at": "2026-07-08T00:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074651403763749119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074651403763749119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6800,
+          "like_count": 193,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "鹦鹉抑郁了会拔自己的羽毛，跟他说你再这样我就不养你了也没什么意义，鹦鹉听到了只会更难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 503,
+          "like_count": 8550,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1120
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 2168,
+          "like_count": 71382,
+          "listed_count": 8,
+          "media_count": 1797,
+          "tweet_count": 12116
+        },
+        "url": "",
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

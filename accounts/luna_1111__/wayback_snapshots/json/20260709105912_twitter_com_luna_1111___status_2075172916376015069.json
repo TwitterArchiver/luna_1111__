@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2075172916376015069",
+    "created_at": "2026-07-09T10:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075172916376015069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1837843674283294720",
+          "start": 3,
+          "username": "RainEngine2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075172916376015069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075171696034943454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2026: 大家好，这里是雨晴新账号，最近因为账号被ghostban了，可能回复会隐藏，希望大家可以帮忙转发一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2075172916376015069",
+        "created_at": "2026-07-09T10:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075172916376015069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1837843674283294720",
+              "start": 3,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075172916376015069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075171696034943454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2026: 大家好，这里是雨晴新账号，最近因为账号被ghostban了，可能回复会隐藏，希望大家可以帮忙转发一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2075171696034943454",
+        "created_at": "2026-07-09T10:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075171696034943454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075171696034943454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，这里是雨晴新账号，最近因为账号被ghostban了，可能回复会隐藏，希望大家可以帮忙转发一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 503,
+          "like_count": 8517,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1115
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/DZNsvIwmEa"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 70,
+          "like_count": 290,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/DZNsvIwmEa",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2074815174918410629",
+    "created_at": "2026-07-08T13:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074853326597099938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1672078534469369856",
+          "start": 0,
+          "username": "csl1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074853326597099938",
+    "in_reply_to_user_id": "1672078534469369856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074852261411586506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@csl1027 🥺🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2074815174918410629",
+        "created_at": "2026-07-08T13:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074853326597099938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1672078534469369856",
+              "start": 0,
+              "username": "csl1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074853326597099938",
+        "in_reply_to_user_id": "1672078534469369856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074852261411586506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@csl1027 🥺🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672078534469369856",
+        "conversation_id": "2074815174918410629",
+        "created_at": "2026-07-08T13:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074852261411586506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074852261411586506",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074815174918410629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 那很好了，我妈天天想带我看内分泌，想把我的胸消下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 494,
+          "like_count": 8548,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1107
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T03:06:25.000Z",
+        "description": "mtf🏳️‍⚧️🍥 | 📮:clipsule@outlook.com | 无证HRT:2026.3.15 | 不混🏳️‍⚧️圈 | 不改花刀 | 出厂2008.10.27 | 出柜藏吃药ing | 167cm/44kg | 推魔女伊蕾娜 | 计算机技术宅 | 对象@xk3454 | 记录可爱日常～💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 132,
+                "username": "xk3454"
+              }
+            ]
+          }
+        },
+        "id": "1672078534469369856",
+        "location": "江苏 徐州",
+        "name": "晴れ猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2072767475075485805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067110268417802243/nDzW43nF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 25,
+          "like_count": 158,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "csl1027",
+        "verified": true
+      }
+    ]
+  }
+}

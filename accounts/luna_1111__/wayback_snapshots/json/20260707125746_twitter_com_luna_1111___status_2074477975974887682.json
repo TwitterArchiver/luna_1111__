@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2074477975974887682",
+    "created_at": "2026-07-07T12:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074477975974887682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1837843674283294720",
+          "start": 3,
+          "username": "wt88047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074477975974887682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074469636243087452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wt88047: 大家好，这里是雨晴的新帐号，感谢各位支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2074477975974887682",
+        "created_at": "2026-07-07T12:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074477975974887682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1837843674283294720",
+              "start": 3,
+              "username": "wt88047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074477975974887682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074469636243087452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wt88047: 大家好，这里是雨晴的新帐号，感谢各位支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2074469636243087452",
+        "created_at": "2026-07-07T12:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074469636243087452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074469636243087452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，这里是雨晴的新帐号，感谢各位支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 489,
+          "like_count": 8467,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1090
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design",
+        "id": "1837843674283294720",
+        "name": "晴日向",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 10,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "wt88047",
+        "verified": false
+      }
+    ]
+  }
+}

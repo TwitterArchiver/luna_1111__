@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073795260590018560"
+      ],
+      "media_source_tweet_id": [
+        "2073795267061756079"
+      ]
+    },
+    "author_id": "2037915149173182465",
+    "conversation_id": "2073806303991115822",
+    "created_at": "2026-07-05T16:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073806303991115822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xnwMb4lGvD",
+          "end": 51,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2073795267061756079/photo/1",
+          "media_key": "3_2073795260590018560",
+          "start": 28,
+          "url": "https://t.co/xnwMb4lGvD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073806303991115822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073795267061756079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 聽說操蛋重生了？！ https://t.co/xnwMb4lGvD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_2073795260590018560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeZzVRbUAAWm6Z.jpg",
+        "width": 1712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073795260590018560"
+          ],
+          "media_source_tweet_id": [
+            "2073795267061756079"
+          ]
+        },
+        "author_id": "2037915149173182465",
+        "conversation_id": "2073806303991115822",
+        "created_at": "2026-07-05T16:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073806303991115822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnwMb4lGvD",
+              "end": 51,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2073795267061756079/photo/1",
+              "media_key": "3_2073795260590018560",
+              "start": 28,
+              "url": "https://t.co/xnwMb4lGvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073806303991115822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073795267061756079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 聽說操蛋重生了？！ https://t.co/xnwMb4lGvD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073795260590018560"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073795267061756079",
+        "created_at": "2026-07-05T15:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073795267061756079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnwMb4lGvD",
+              "end": 33,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2073795267061756079/photo/1",
+              "media_key": "3_2073795260590018560",
+              "start": 10,
+              "url": "https://t.co/xnwMb4lGvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073795267061756079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "聽說操蛋重生了？！ https://t.co/xnwMb4lGvD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 486,
+          "like_count": 8403,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1086
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 14,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}
