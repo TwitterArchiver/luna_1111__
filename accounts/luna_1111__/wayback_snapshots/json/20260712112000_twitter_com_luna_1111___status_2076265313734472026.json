@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2075240711814095328",
+    "created_at": "2026-07-12T11:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076265313734472026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2055900754968465408",
+          "start": 0,
+          "username": "conv1x1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076265313734472026",
+    "in_reply_to_user_id": "2055900754968465408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076265202899910792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@conv1x1 誓死效忠喜拿萌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2075240711814095328",
+        "created_at": "2026-07-12T11:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076265313734472026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055900754968465408",
+              "start": 0,
+              "username": "conv1x1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076265313734472026",
+        "in_reply_to_user_id": "2055900754968465408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076265202899910792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@conv1x1 誓死效忠喜拿萌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055900754968465408",
+        "conversation_id": "2075240711814095328",
+        "created_at": "2026-07-12T11:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076265202899910792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076265202899910792",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075240711814095328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 誓死效忠喜拿萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "pinned_tweet_id": "2075622951773495499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 504,
+          "like_count": 8721,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1147
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T06:55:27.000Z",
+        "description": "怪人・lim社恐=+∞・某种奇怪的跨・infp&intp叠加态・喜欢［男, 女］孩子(闭区间)・千禧製・非二维・非线性・张量・什么时候给性别先安一个虚轴?・甚至可以跨物种?・傅立叶・贝叶斯・模拟?数字?连续?离散?・找到了神奇的介面・干什么都是半吊子・其实是个笨蛋\n如果误封锁了请一定联系我喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tat48760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tat48760",
+                "start": 0,
+                "url": "https://t.co/cyyi2t9Aci"
+              }
+            ]
+          }
+        },
+        "id": "2055900754968465408",
+        "location": "其中一个投影的实例部署于太阳系",
+        "name": "uu （永远爱你们！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069073801414082560/0qmpBmzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 141,
+          "like_count": 4281,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/cyyi2t9Aci",
+        "username": "conv1x1",
+        "verified": false
+      }
+    ]
+  }
+}

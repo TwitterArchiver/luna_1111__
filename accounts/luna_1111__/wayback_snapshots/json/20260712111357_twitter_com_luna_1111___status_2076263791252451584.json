@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2076263791252451584",
+    "created_at": "2026-07-12T11:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076263791252451584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nagis1a/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/nagis1a/status/2076262446743093315",
+          "start": 5,
+          "url": "https://t.co/ZdF9qwueZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076263791252451584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076262446743093315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我恐人。 https://t.co/ZdF9qwueZi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2076263791252451584",
+        "created_at": "2026-07-12T11:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076263791252451584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nagis1a/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nagis1a/status/2076262446743093315",
+              "start": 5,
+              "url": "https://t.co/ZdF9qwueZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076263791252451584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076262446743093315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我恐人。 https://t.co/ZdF9qwueZi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045224199120191488",
+        "conversation_id": "2076262446743093315",
+        "created_at": "2026-07-12T11:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076262446743093315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076262446743093315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "你有恐跨症吗（问药娘）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "pinned_tweet_id": "2075622951773495499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 504,
+          "like_count": 8719,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1146
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T19:34:04.000Z",
+        "description": "MtF || 2009 ||  广东 || 糖商\n原号浅葱🍥@qiancongxyn\n二代目互fo巡回中…\n联系方式QQ，tg，xchat\n\n愿以温柔为骨，活成一束柔光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "qiancongxyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qiancong1",
+                "end": 23,
+                "expanded_url": "http://t.me/qiancong1",
+                "start": 0,
+                "url": "https://t.co/Ds2IoXcHq1"
+              }
+            ]
+          }
+        },
+        "id": "2045224199120191488",
+        "name": "芊小丛🍥（糖商）",
+        "pinned_tweet_id": "2075159330962506026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068938612213989376/ZDOr5smz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 250,
+          "like_count": 561,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/Ds2IoXcHq1",
+        "username": "nagis1a",
+        "verified": true
+      }
+    ]
+  }
+}
