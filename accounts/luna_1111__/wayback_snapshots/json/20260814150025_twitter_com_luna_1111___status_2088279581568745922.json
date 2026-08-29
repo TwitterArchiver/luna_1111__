@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2087922060043722780",
+    "created_at": "2026-08-14T15:00:25.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088279581568745922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1932597869049229313",
+          "start": 0,
+          "username": "lian_296"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088279581568745922",
+    "in_reply_to_user_id": "1932597869049229313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088278014484414652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lian_296 等天气好点再洗😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2087922060043722780",
+        "created_at": "2026-08-14T15:00:25.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088279581568745922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932597869049229313",
+              "start": 0,
+              "username": "lian_296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088279581568745922",
+        "in_reply_to_user_id": "1932597869049229313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088278014484414652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lian_296 等天气好点再洗😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932597869049229313",
+        "conversation_id": "2087922060043722780",
+        "created_at": "2026-08-14T14:54:11.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088278014484414652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088278014484414652",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087922060043722780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 南京这鬼天气，台风来之前洗的，现在还没干透，后悔洗掉了😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 不混圈 | 无性恋 | 对所有人友好 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088279581568745922",
+        "name": "Luna (焦虑ing)✨",
+        "pinned_tweet_id": "2079519654565855638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 533,
+          "like_count": 10214,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1428
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-11T00:37:19.000Z",
+        "description": "业余大提琴爱好者/摄影爱好者/大一/？t？/电子信息\n聊天入口\nhttps://t.co/iEHDKbpJGa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+pxrOwfDD9BM4O…",
+                "end": 55,
+                "expanded_url": "https://t.me/+pxrOwfDD9BM4OTA1",
+                "start": 32,
+                "url": "https://t.co/iEHDKbpJGa"
+              }
+            ]
+          }
+        },
+        "id": "1932597869049229313",
+        "is_identity_verified": false,
+        "location": "惡魔城入城口",
+        "most_recent_tweet_id": "2088278014484414652",
+        "name": "我姓西北风",
+        "pinned_tweet_id": "2058067180399538571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932597869049229313/1780334967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060601929341054976/sySTkYo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 216,
+          "like_count": 4599,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 390
+        },
+        "url": "",
+        "username": "lian_296",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2083193231110525173",
+    "created_at": "2026-07-31T14:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083193231110525173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1616696567549034496",
+          "start": 3,
+          "username": "LovelyJerry2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083193231110525173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082792257204502594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LovelyJerry2013: 好烦，我如果是单纯的内向都比现在的社恐好，社恐是真的难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2083193231110525173",
+        "created_at": "2026-07-31T14:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083193231110525173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1616696567549034496",
+              "start": 3,
+              "username": "LovelyJerry2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083193231110525173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082792257204502594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LovelyJerry2013: 好烦，我如果是单纯的内向都比现在的社恐好，社恐是真的难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616696567549034496",
+        "conversation_id": "2082792257204502594",
+        "created_at": "2026-07-30T11:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082792257204502594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082792257204502594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 558,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好烦，我如果是单纯的内向都比现在的社恐好，社恐是真的难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 不会Block任何人 | 对所有人友好 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)✨",
+        "pinned_tweet_id": "2079519654565855638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 533,
+          "like_count": 9837,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1344
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "社交焦虑障碍\\历史学\\ Trotskyism ☭⁴\\异端托派\\含糖🍥\\mtx🏳️‍⚧️\\Lolita\\清水\\DDLC&Just Yuri💜\\芙兰秀秀\\点兔\\晓美焰\\猫和老鼠\\q娃\\北方谦三\\♡HMS光辉号♡\\幸德秋水\\坂井三郎\\本体花枝鼠\\2013\\照片大部分在媒体里\\里推@KawaiiYuri2013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "KawaiiYuri2013"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQV65b"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "佐賀県唐津市",
+        "name": "✧*♡𝓝𝓪𝓽𝓼𝓾𝓶𝓮𝓢𝓱𝓾𝓼𝓾𝓲♡*⊹🍀✒️🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078024494439100416/UG3fmVyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 1611,
+          "like_count": 56315,
+          "listed_count": 4,
+          "media_count": 319,
+          "tweet_count": 4735
+        },
+        "url": "https://t.co/UnTrdQV65b",
+        "username": "LovelyJerry2013",
+        "verified": false
+      }
+    ]
+  }
+}

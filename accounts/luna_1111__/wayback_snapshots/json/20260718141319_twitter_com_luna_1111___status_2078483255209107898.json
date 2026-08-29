@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2078321158705889649",
+    "created_at": "2026-07-18T14:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078483255209107898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1377860792599519237",
+          "start": 0,
+          "username": "alexder51947745"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078483255209107898",
+    "in_reply_to_user_id": "1377860792599519237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078476114423685467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexder51947745 🫂现在好一点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2078321158705889649",
+        "created_at": "2026-07-18T14:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078483255209107898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1377860792599519237",
+              "start": 0,
+              "username": "alexder51947745"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078483255209107898",
+        "in_reply_to_user_id": "1377860792599519237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078476114423685467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexder51947745 🫂现在好一点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377860792599519237",
+        "conversation_id": "2078321158705889649",
+        "created_at": "2026-07-18T13:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078476114423685467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078476114423685467",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078321158705889649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 抱抱抱抱 发出来会好受些的 大家都是很温柔很温柔的人🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | HRT:26.03.20 | SAD | ADHD | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 524,
+          "like_count": 9276,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1231
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T05:49:54.000Z",
+        "description": "自由意志主义者 友跨 支持平权 想要成为一个可爱的人 mtx",
+        "id": "1377860792599519237",
+        "name": "糖渍胡萝卜🏳️‍⚧️🇺🇦",
+        "pinned_tweet_id": "1742408171870953829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725356277973520384/Qu66uhAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 3166,
+          "like_count": 207201,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 10762
+        },
+        "url": "",
+        "username": "alexder51947745",
+        "verified": false
+      }
+    ]
+  }
+}

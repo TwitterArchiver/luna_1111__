@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2087840832644911215",
+    "created_at": "2026-08-13T10:31:08.000Z",
+    "display_text_range": [
+      54,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T11:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087849427390300327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586762784393437184",
+          "start": 0,
+          "username": "DraTohru_XLN"
+        },
+        {
+          "end": 26,
+          "id": "1877035470615638016",
+          "start": 14,
+          "username": "LMegurine03"
+        },
+        {
+          "end": 42,
+          "id": "1171043978201878528",
+          "start": 27,
+          "username": "Claris73645268"
+        },
+        {
+          "end": 53,
+          "id": "1295507211599278081",
+          "start": 43,
+          "username": "AZURE_UwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087849427390300327",
+    "in_reply_to_user_id": "1586762784393437184",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087840832644911215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DraTohru_XLN @LMegurine03 @Claris73645268 @AZURE_UwU xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087840812629647360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmAKEBaYAAbNyr.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2087840812965232641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmAKFRbAAEjDVI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087840812994584576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmAKFYa4AASHGx.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2087840812625453056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmAKEAaYAAWSO0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2087840832644911215",
+        "created_at": "2026-08-13T10:31:08.000Z",
+        "display_text_range": [
+          54,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087849427390300327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586762784393437184",
+              "start": 0,
+              "username": "DraTohru_XLN"
+            },
+            {
+              "end": 26,
+              "id": "1877035470615638016",
+              "start": 14,
+              "username": "LMegurine03"
+            },
+            {
+              "end": 42,
+              "id": "1171043978201878528",
+              "start": 27,
+              "username": "Claris73645268"
+            },
+            {
+              "end": 53,
+              "id": "1295507211599278081",
+              "start": 43,
+              "username": "AZURE_UwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087849427390300327",
+        "in_reply_to_user_id": "1586762784393437184",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087840832644911215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DraTohru_XLN @LMegurine03 @Claris73645268 @AZURE_UwU xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087840812629647360",
+            "3_2087840812965232641",
+            "3_2087840812994584576",
+            "3_2087840812625453056"
+          ]
+        },
+        "author_id": "1586762784393437184",
+        "conversation_id": "2087840832644911215",
+        "created_at": "2026-08-13T09:56:59.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087840832644911215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1586762784393437184",
+              "start": 45,
+              "username": "DraTohru_XLN"
+            },
+            {
+              "end": 72,
+              "id": "1877035470615638016",
+              "start": 60,
+              "username": "LMegurine03"
+            },
+            {
+              "end": 89,
+              "id": "1171043978201878528",
+              "start": 74,
+              "username": "Claris73645268"
+            },
+            {
+              "end": 101,
+              "id": "1295507211599278081",
+              "start": 91,
+              "username": "AZURE_UwU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XPGWY0r4qd",
+              "end": 125,
+              "expanded_url": "https://x.com/DraTohru_XLN/status/2087840832644911215/photo/1",
+              "media_key": "3_2087840812629647360",
+              "start": 102,
+              "url": "https://t.co/XPGWY0r4qd"
+            },
+            {
+              "display_url": "pic.x.com/XPGWY0r4qd",
+              "end": 125,
+              "expanded_url": "https://x.com/DraTohru_XLN/status/2087840832644911215/photo/1",
+              "media_key": "3_2087840812965232641",
+              "start": 102,
+              "url": "https://t.co/XPGWY0r4qd"
+            },
+            {
+              "display_url": "pic.x.com/XPGWY0r4qd",
+              "end": 125,
+              "expanded_url": "https://x.com/DraTohru_XLN/status/2087840832644911215/photo/1",
+              "media_key": "3_2087840812994584576",
+              "start": 102,
+              "url": "https://t.co/XPGWY0r4qd"
+            },
+            {
+              "display_url": "pic.x.com/XPGWY0r4qd",
+              "end": 125,
+              "expanded_url": "https://x.com/DraTohru_XLN/status/2087840832644911215/photo/1",
+              "media_key": "3_2087840812625453056",
+              "start": 102,
+              "url": "https://t.co/XPGWY0r4qd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087840832644911215",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087840812629647360"
+          },
+          {
+            "media_key": "3_2087840812965232641"
+          },
+          {
+            "media_key": "3_2087840812994584576"
+          },
+          {
+            "media_key": "3_2087840812625453056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人生中第一次网友会面🥹而且还是推油\n和Luka一起飞无人机，一起看梅花鹿，我也是第一次见\n@DraTohru_XLN \n@LMegurine03 \n@Claris73645268 \n@AZURE_UwU https://t.co/XPGWY0r4qd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 不混圈 | 对所有人友好 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087849427390300327",
+        "name": "Luna (焦虑ing)✨",
+        "pinned_tweet_id": "2079519654565855638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 529,
+          "like_count": 10135,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1412
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-30T16:51:55.000Z",
+        "description": "来自中国的21y.o.废物技术宅。二次元/电子电路/化学/MIDI/软件/数码产品/摄影/无人机大手子。属性:🏳️‍🌈LGBTQ+友好/トール可愛い🐉/《青空のラプソディ》🎵/大連好き🏝️/Yamaha XG-MIDI🎹/DJI✈️Mavic Air & Air 2S/Fart Fetish 恋屁癖⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dratoh…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dratohru-xln.bsky.social",
+                "start": 0,
+                "url": "https://t.co/3IfckWWTKL"
+              }
+            ]
+          }
+        },
+        "id": "1586762784393437184",
+        "is_identity_verified": true,
+        "location": "500M的天空",
+        "most_recent_tweet_id": "2087845569666658344",
+        "name": "小龙娘トール⚡️🧪🎹📱💻🏝️",
+        "pinned_tweet_id": "1758324214581645818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586762784393437184/1779699263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827717933965234176/8TASHQHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 841,
+          "like_count": 58366,
+          "listed_count": 4,
+          "media_count": 1518,
+          "tweet_count": 18868
+        },
+        "url": "https://t.co/3IfckWWTKL",
+        "username": "DraTohru_XLN",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2087604562391941587",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 7222,
+          "like_count": 8582,
+          "listed_count": 9,
+          "media_count": 1947,
+          "tweet_count": 7313
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-09T12:53:49.000Z",
+        "description": "mtf（？）欢迎来戳☺️同类互fo喵",
+        "id": "1171043978201878528",
+        "is_identity_verified": false,
+        "location": "unknown",
+        "most_recent_tweet_id": "2087534385818169665",
+        "name": "Claris🍥",
+        "pinned_tweet_id": "2079267056227438963",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 478,
+          "like_count": 1359,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 3075
+        },
+        "url": "",
+        "username": "Claris73645268",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-17T23:46:16.000Z",
+        "description": "电子信息工程系｜生产日期06😋｜（EDA真好玩｜喜欢建模 ｜MDD服药ing。。。",
+        "id": "1295507211599278081",
+        "is_identity_verified": false,
+        "location": "你心里🩵",
+        "most_recent_tweet_id": "2087836584171524229",
+        "name": "AZURE 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1295507211599278081/1775725470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070767945127800832/3Hm17hRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 799,
+          "like_count": 21414,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1449
+        },
+        "url": "",
+        "username": "AZURE_UwU",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
