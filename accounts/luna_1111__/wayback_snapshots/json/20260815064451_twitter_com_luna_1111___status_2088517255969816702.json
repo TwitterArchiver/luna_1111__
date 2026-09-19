@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2088517255969816702",
+    "created_at": "2026-08-15T06:44:51.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088517255969816702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LeLobai24933/s…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/LeLobai24933/status/2088516789172859238",
+          "start": 40,
+          "url": "https://t.co/oKTyJ2ZA3t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088517255969816702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088516789172859238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实是因为我被ghostban了呜呜\n如果要找的话只能在reply那边找qwq https://t.co/oKTyJ2ZA3t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2088517255969816702",
+        "created_at": "2026-08-15T06:44:51.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088517255969816702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LeLobai24933/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/LeLobai24933/status/2088516789172859238",
+              "start": 40,
+              "url": "https://t.co/oKTyJ2ZA3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088517255969816702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088516789172859238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是因为我被ghostban了呜呜\n如果要找的话只能在reply那边找qwq https://t.co/oKTyJ2ZA3t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002635057371230209",
+        "conversation_id": "2088426193213431972",
+        "created_at": "2026-08-15T06:42:59.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088516789172859238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088516789172859238",
+        "in_reply_to_user_id": "2002635057371230209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088431562576839163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 甚至连这个帖子也删了...🤡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 不混圈 | 无性恋 | 对所有人友好 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088517255969816702",
+        "name": "Luna (焦虑ing)✨",
+        "pinned_tweet_id": "2079519654565855638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 532,
+          "like_count": 10240,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1437
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T07:00:06.000Z",
+        "description": "暑假一直都在线哦💖\nINFP-T(♂)\n一个喜欢酷洛米的高中生💜\n(=°Д°=)。。。\n (╯°Д°)╯︵ ┻━┻",
+        "id": "2002635057371230209",
+        "is_identity_verified": false,
+        "location": "🇨🇳",
+        "most_recent_tweet_id": "2088516789172859238",
+        "name": "洛白洛白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002635057371230209/1775495999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066141519611092993/sN5chnbQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 77,
+          "like_count": 2971,
+          "listed_count": 0,
+          "media_count": 407,
+          "tweet_count": 1458
+        },
+        "url": "",
+        "username": "LeLobai24933",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

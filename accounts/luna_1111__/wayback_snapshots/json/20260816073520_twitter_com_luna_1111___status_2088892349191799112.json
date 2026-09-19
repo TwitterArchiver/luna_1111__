@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2088892349191799112",
+    "created_at": "2026-08-16T07:35:20.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088892349191799112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoh2911/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/xiaoh2911/status/2088629860617077039",
+          "start": 17,
+          "url": "https://t.co/P2OpsInZzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088892349191799112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088629860617077039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是不是串子，笑死我了哈哈哈哈哈 https://t.co/P2OpsInZzk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2088892349191799112",
+        "created_at": "2026-08-16T07:35:20.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088892349191799112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoh2911/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/xiaoh2911/status/2088629860617077039",
+              "start": 17,
+              "url": "https://t.co/P2OpsInZzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088892349191799112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088629860617077039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是不是串子，笑死我了哈哈哈哈哈 https://t.co/P2OpsInZzk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836017908629331969",
+        "conversation_id": "2088488778491130270",
+        "created_at": "2026-08-15T14:12:18.000Z",
+        "display_text_range": [
+          15,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088629860617077039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076670672517189632",
+              "start": 0,
+              "username": "mikumi_huihui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088629860617077039",
+        "in_reply_to_user_id": "2076670672517189632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1430,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088488778491130270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikumi_huihui 吃性转药都是性压抑,但凡去嫖上几个大胸细腰丰臀美女,都不至于想当药娘,如果嫖完还想当药娘,说明没嫖够"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 不混圈 | 无性恋 | 对所有人友好 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088892349191799112",
+        "name": "Luna (焦虑ing)✨",
+        "pinned_tweet_id": "2079519654565855638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 532,
+          "like_count": 10262,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1443
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T12:23:03.000Z",
+        "description": "我是益达,笑掉大牙",
+        "id": "1836017908629331969",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088639631235731963",
+        "name": "益达-笑掉大牙",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086129335099101184/Sgbo_C8v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 2205,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "xiaoh2911",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T14:11:50.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列🌟/危机干预🔪\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/X4Y02nPcwl"
+              }
+            ]
+          }
+        },
+        "id": "2076670672517189632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088882302613123262",
+        "name": "gtgor🏳️‍⚧️🍥(同类互fo)（糖商）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076670672517189632/1786532087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087504855682416641/QZhsmwBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 301,
+          "like_count": 491,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/X4Y02nPcwl",
+        "username": "mikumi_huihui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

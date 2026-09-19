@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2079270287065944378",
+    "created_at": "2026-07-20T18:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079270287065944378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liu13578491374…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/liu13578491374/status/2079269109892874294",
+          "start": 32,
+          "url": "https://t.co/oTamiYuJu8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079270287065944378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079269109892874294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比如血栓脑溢血牙周炎肩周炎缺胳膊断腿瞎眼什么的倒是一般不会落下 https://t.co/oTamiYuJu8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2079270287065944378",
+        "created_at": "2026-07-20T18:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079270287065944378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liu13578491374…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/liu13578491374/status/2079269109892874294",
+              "start": 32,
+              "url": "https://t.co/oTamiYuJu8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079270287065944378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079269109892874294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比如血栓脑溢血牙周炎肩周炎缺胳膊断腿瞎眼什么的倒是一般不会落下 https://t.co/oTamiYuJu8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753042054740107264",
+        "conversation_id": "2079244036175696106",
+        "created_at": "2026-07-20T18:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079269109892874294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079269109892874294",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079244036175696106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 比如血栓脑溢血牙周炎肩周炎缺胳膊断腿瞎眼什么的倒是一般不会落下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 不会Block任何人 | 对所有人友好 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 533,
+          "like_count": 9456,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T13:06:29.000Z",
+        "description": "我不喜欢社会",
+        "id": "1753042054740107264",
+        "name": "887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947572499941888003/QZTVw-Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 486,
+          "like_count": 4568,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 662
+        },
+        "url": "",
+        "username": "liu13578491374",
+        "verified": false
+      }
+    ]
+  }
+}

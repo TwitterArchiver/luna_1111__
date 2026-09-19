@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2099734849880019410",
+    "created_at": "2026-09-15T07:17:02.000Z",
+    "display_text_range": [
+      26,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T08:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099759380703088965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2065018601451765760",
+          "start": 0,
+          "username": "8526nl"
+        },
+        {
+          "end": 17,
+          "id": "1811265295849598976",
+          "start": 8,
+          "username": "KiraMyao"
+        },
+        {
+          "end": 25,
+          "id": "1546431985086009344",
+          "start": 18,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099759380703088965",
+    "in_reply_to_user_id": "2065018601451765760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099734849880019410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8526nl @KiraMyao @NL8526 抱抱🫂\n我也会很在意的🥺我甚至都记得每一个单取我的人"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2099734849880019410].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2099734849880019410",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2099734849880019410"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2099734849880019410",
+        "created_at": "2026-09-15T07:17:02.000Z",
+        "display_text_range": [
+          26,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099759380703088965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2065018601451765760",
+              "start": 0,
+              "username": "8526nl"
+            },
+            {
+              "end": 17,
+              "id": "1811265295849598976",
+              "start": 8,
+              "username": "KiraMyao"
+            },
+            {
+              "end": 25,
+              "id": "1546431985086009344",
+              "start": 18,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099759380703088965",
+        "in_reply_to_user_id": "2065018601451765760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099734849880019410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8526nl @KiraMyao @NL8526 抱抱🫂\n我也会很在意的🥺我甚至都记得每一个单取我的人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 无性恋 | 对所有人友好 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099759380703088965",
+        "name": "Luna (焦虑ing)✨",
+        "pinned_tweet_id": "2091186069849145677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 520,
+          "like_count": 10469,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 1528
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T10:31:31.000Z",
+        "description": "🐱柠凉の逃生艙(負面情緒)\n🐖大貓貓@NL8526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "NL8526"
+              }
+            ]
+          }
+        },
+        "id": "2065018601451765760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098281752481653166",
+        "name": "木宁冫京🍋🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065018601451765760/1787223186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782824561717248/0r40kliL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 125,
+          "like_count": 1803,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "8526nl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiramyao.com",
+                "end": 23,
+                "expanded_url": "https://kiramyao.com/",
+                "start": 0,
+                "url": "https://t.co/NVGsHKEdLi"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2099750484324274295",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2088478447643578384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811265295849598976/1772529789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2564,
+          "following_count": 394,
+          "like_count": 11259,
+          "listed_count": 11,
+          "media_count": 474,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/NVGsHKEdLi",
+        "username": "KiraMyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099738753376157966",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 1128,
+          "like_count": 30998,
+          "listed_count": 9,
+          "media_count": 373,
+          "tweet_count": 1339
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

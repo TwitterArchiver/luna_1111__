@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2085315602735133001",
+    "created_at": "2026-08-06T10:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085315602735133001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NL8526/status/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/NL8526/status/2085302384599929284",
+          "start": 19,
+          "url": "https://t.co/GrEBjFQnPk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085315602735133001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085302384599929284",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以咱的流量看其实和几十粉的大v没区别 https://t.co/GrEBjFQnPk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2085315602735133001",
+        "created_at": "2026-08-06T10:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085315602735133001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/NL8526/status/2085302384599929284",
+              "start": 19,
+              "url": "https://t.co/GrEBjFQnPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085315602735133001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085302384599929284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以咱的流量看其实和几十粉的大v没区别 https://t.co/GrEBjFQnPk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2085302384599929284",
+        "created_at": "2026-08-06T09:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085302384599929284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085302384599929284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以咱的流量看其实和几百粉的大v没区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 不会Block任何人 | 对所有人友好 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG",
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)✨",
+        "pinned_tweet_id": "2079519654565855638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 529,
+          "like_count": 9928,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1371
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/逆向/MC 😴大一gap/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私 包含梗图 🙏抽象致歉 🚀逃生舱@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 104,
+                "username": "8526nl"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3802,
+          "following_count": 1005,
+          "like_count": 26045,
+          "listed_count": 6,
+          "media_count": 301,
+          "tweet_count": 1124
+        },
+        "url": "",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

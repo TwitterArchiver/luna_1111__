@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2091123142882443762",
+    "created_at": "2026-08-22T11:19:43.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T12:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091123142882443762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/karo269640607/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/karo269640607/status/2090249356918304772",
+          "start": 14,
+          "url": "https://t.co/YJlEiDQPpm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091123142882443762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090249356918304772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "霸凌过我的人什么时候跳楼？ https://t.co/YJlEiDQPpm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 485,
+        "media_key": "3_2090249241428168704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIOnEdbEAA-in6.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2091123142882443762",
+        "created_at": "2026-08-22T11:19:43.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091123142882443762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karo269640607/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/karo269640607/status/2090249356918304772",
+              "start": 14,
+              "url": "https://t.co/YJlEiDQPpm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091123142882443762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090249356918304772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "霸凌过我的人什么时候跳楼？ https://t.co/YJlEiDQPpm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090249241428168704"
+          ]
+        },
+        "author_id": "1937073350750466048",
+        "conversation_id": "2090249356918304772",
+        "created_at": "2026-08-20T01:27:36.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T02:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090249356918304772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzkrTdmI5A",
+              "end": 41,
+              "expanded_url": "https://x.com/karo269640607/status/2090249356918304772/photo/1",
+              "media_key": "3_2090249241428168704",
+              "start": 18,
+              "url": "https://t.co/GzkrTdmI5A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090249356918304772",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090249241428168704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 106628,
+          "like_count": 2330,
+          "quote_count": 31,
+          "reply_count": 492,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "霸凌过我的仇人跳楼没救回来，嘎了。 https://t.co/GzkrTdmI5A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 不混圈 | 无性恋 | 对所有人友好 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091123142882443762",
+        "name": "Luna (焦虑ing)✨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 527,
+          "like_count": 10410,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1472
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混邪同人女 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "is_identity_verified": false,
+        "location": "新西兰   奥克兰",
+        "most_recent_tweet_id": "2091107089792073841",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937073350750466048/1772488051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 768,
+          "like_count": 47307,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 10211
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
