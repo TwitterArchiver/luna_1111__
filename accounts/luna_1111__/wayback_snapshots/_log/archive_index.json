@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-19T07:30:41",
+  "last_updated": "2026-09-19T07:31:04",
   "html": {
     "https://web.archive.org/web/20260329112003if_/https://twitter.com/luna_1111__/status/2038214600244466074": {
       "status": "done",
@@ -10125,7 +10125,7 @@
       "referenced_by": [
         "20260404100406_twitter_com_luna_1111___status_2040369812849762646.json"
       ],
-      "last_updated": "2026-08-29T09:15:10"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "https://video.twimg.com/amplify_video/2037497155401940992/vid/avc1/1284x794/klkcFXXAHhlAizWq.mp4": {
       "status": "done",
@@ -10186,10 +10186,13 @@
       "last_updated": "2026-06-28T06:35:09"
     },
     "https://video.twimg.com/amplify_video/2082096880771805184/vid/avc1/1280x720/k6IFqNLQK-ZDElwu.mp4": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260728133404_twitter_com_luna_1111___status_2082097257961148616.json"
-      ]
+      ],
+      "last_updated": "2026-09-19T07:31:04",
+      "last_reason": "HTTPError: 403 Client Error: Forbidden for url: https://web.archive.org/web/20260906144048/https://video.twimg.com/amplify_video/2082096880771805184/vid/avc1/1280x720/k6IFqNLQK-ZDElwu.mp4",
+      "miss_count": 1
     }
   },
   "avatars": {
@@ -16783,8 +16786,8 @@
           "https://pbs.twimg.com/profile_images/2037919463937572864/e9-Zxksf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260329161536_twitter_com_luna_1111___status_2038288975605956858.json": {
       "status": "failed",
@@ -16798,8 +16801,8 @@
           "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260329164528_twitter_com_luna_1111___status_2038296494114030068.json": {
       "status": "done",
@@ -16950,8 +16953,8 @@
           "https://pbs.twimg.com/profile_images/2033596424219435008/7-c9Fdo7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260330143202_twitter_com_luna_1111___status_2038625301249380481.json": {
       "status": "done",
@@ -17449,8 +17452,8 @@
           "https://pbs.twimg.com/profile_images/2035277863784730624/LlZQ3D0w_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260401084440_twitter_com_luna_1111___status_2039262660122779760.json": {
       "status": "done",
@@ -17477,8 +17480,8 @@
           "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260401093427_twitter_com_luna_1111___status_2039275188181741776.json": {
       "status": "done",
@@ -17791,8 +17794,8 @@
           "https://pbs.twimg.com/profile_images/2039228658590871552/1zpcIAK7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260403071041_twitter_com_luna_1111___status_2039963786237362621.json": {
       "status": "done",
@@ -17819,8 +17822,8 @@
           "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260403104410_twitter_com_luna_1111___status_2040017510687215900.json": {
       "status": "done",
@@ -17910,8 +17913,8 @@
           "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260403154652_twitter_com_luna_1111___status_2040093686776668662.json": {
       "status": "failed",
@@ -17923,8 +17926,8 @@
           "https://pbs.twimg.com/profile_images/2030311851687649281/NIhSLEy4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260403165912_twitter_com_luna_1111___status_2040111889896599816.json": {
       "status": "done",
@@ -18039,8 +18042,8 @@
           "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260404083001_twitter_com_luna_1111___status_2040346136305656177.json": {
       "status": "done",
@@ -18097,8 +18100,8 @@
           "https://pbs.twimg.com/profile_images/2039935779645067265/GN-YfkWP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260404122545_twitter_com_luna_1111___status_2040405462235914497.json": {
       "status": "done",
@@ -18272,8 +18275,8 @@
           "https://pbs.twimg.com/profile_images/2040544850903523328/ztRf_Gr3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260405091233_twitter_com_luna_1111___status_2040719226667765836.json": {
       "status": "done",
@@ -18483,8 +18486,8 @@
           "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260406032302_twitter_com_luna_1111___status_2040993657680003244.json": {
       "status": "done",
@@ -18510,8 +18513,8 @@
           "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260406073948_twitter_com_luna_1111___status_2041058274540192228.json": {
       "status": "done",
@@ -18562,8 +18565,8 @@
           "https://pbs.twimg.com/profile_images/2039542257301475328/sq1OcSAa_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:10",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260406081153_twitter_com_luna_1111___status_2041066348021780648.json": {
       "status": "done",
@@ -18867,8 +18870,8 @@
           "https://pbs.twimg.com/profile_images/2040687118192939009/FJeSjdzU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260407132108_twitter_com_luna_1111___status_2041506563631034541.json": {
       "status": "failed",
@@ -18880,8 +18883,8 @@
           "https://pbs.twimg.com/profile_images/2039732828901130240/VgJ-tsYk_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260407134542_twitter_com_luna_1111___status_2041512745569567219.json": {
       "status": "done",
@@ -18980,8 +18983,8 @@
           "https://pbs.twimg.com/profile_images/2038769189889146880/oCvkoCvV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260407163432_twitter_com_luna_1111___status_2041555233525145953.json": {
       "status": "done",
@@ -19033,8 +19036,8 @@
           "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260408103056_twitter_com_luna_1111___status_2041826117598994838.json": {
       "status": "done",
@@ -19123,8 +19126,8 @@
           "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260409070941_twitter_com_luna_1111___status_2042137860459954213.json": {
       "status": "done",
@@ -19276,8 +19279,8 @@
           "https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260409170744_twitter_com_luna_1111___status_2042288361893745096.json": {
       "status": "done",
@@ -19489,8 +19492,8 @@
           "https://pbs.twimg.com/profile_images/1505680354904264705/LkgTp6OI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260411122040_twitter_com_luna_1111___status_2042940898531504172.json": {
       "status": "done",
@@ -19602,8 +19605,8 @@
           "https://pbs.twimg.com/profile_images/2039732828901130240/VgJ-tsYk_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260412011348_twitter_com_luna_1111___status_2043135460508348548.json": {
       "status": "done",
@@ -19691,8 +19694,8 @@
           "https://pbs.twimg.com/profile_images/2040622993647550464/tyymAl98_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260412082352_twitter_com_luna_1111___status_2043243691712880803.json": {
       "status": "failed",
@@ -19704,8 +19707,8 @@
           "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260412091921_twitter_com_luna_1111___status_2043257657033961768.json": {
       "status": "done",
@@ -19745,8 +19748,8 @@
           "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260412112052_twitter_com_luna_1111___status_2043288236496494802.json": {
       "status": "done",
@@ -19810,8 +19813,8 @@
           "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260413034943_twitter_com_luna_1111___status_2043537089338249519.json": {
       "status": "done",
@@ -19890,8 +19893,8 @@
           "https://pbs.twimg.com/profile_images/2043297608387448832/1uid-Sro_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:22",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260413073625_twitter_com_luna_1111___status_2043594137832657150.json": {
       "status": "done",
@@ -20059,8 +20062,8 @@
           "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260414014236_twitter_com_luna_1111___status_2043867486018220439.json": {
       "status": "done",
@@ -20152,8 +20155,8 @@
           "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260414072603_twitter_com_luna_1111___status_2043953919861182852.json": {
       "status": "done",
@@ -20363,8 +20366,8 @@
           "https://pbs.twimg.com/profile_images/2040715119458729984/HSHYmZGg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260414101342_twitter_com_luna_1111___status_2043996109354176567.json": {
       "status": "done",
@@ -20390,8 +20393,8 @@
           "https://pbs.twimg.com/profile_images/2040822642689847296/JsAmJVcw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260414104241_twitter_com_luna_1111___status_2044003402158428195.json": {
       "status": "failed",
@@ -20403,8 +20406,8 @@
           "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260414111727_twitter_com_luna_1111___status_2044012149744226473.json": {
       "status": "done",
@@ -20491,8 +20494,8 @@
           "https://pbs.twimg.com/profile_images/2043839678428925952/OzBFm314_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260414142425_twitter_com_luna_1111___status_2044059204227412391.json": {
       "status": "done",
@@ -20621,8 +20624,8 @@
           "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260415083002_twitter_com_luna_1111___status_2044332407428358223.json": {
       "status": "done",
@@ -21064,8 +21067,8 @@
           "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260417124918_twitter_com_luna_1111___status_2045122428834046131.json": {
       "status": "failed",
@@ -21083,8 +21086,8 @@
           "https://pbs.twimg.com/profile_images/2008084154135568384/Bey-CHYq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:18",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260417125406_twitter_com_luna_1111___status_2045123636319662376.json": {
       "status": "failed",
@@ -21102,8 +21105,8 @@
           "https://pbs.twimg.com/profile_images/2031357833871294464/mbsA1KOe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:18",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260417130206_twitter_com_luna_1111___status_2045125649115861404.json": {
       "status": "done",
@@ -21141,8 +21144,8 @@
           "https://pbs.twimg.com/profile_images/2035752291907883008/IGwfrJ9V_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260418070049_twitter_com_luna_1111___status_2045397119658242051.json": {
       "status": "done",
@@ -21580,8 +21583,8 @@
           "https://pbs.twimg.com/profile_images/2042251628313784320/TFpdIiRu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260419153738_twitter_com_luna_1111___status_2045889568088437133.json": {
       "status": "done",
@@ -22038,8 +22041,8 @@
           "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260420150002_twitter_com_luna_1111___status_2046242491767095453.json": {
       "status": "done",
@@ -22395,8 +22398,8 @@
           "https://pbs.twimg.com/profile_images/2026058493871218688/LzgDzWIh_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260422143218_twitter_com_luna_1111___status_2046960288105427384.json": {
       "status": "done",
@@ -22512,8 +22515,8 @@
           "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260423135645_twitter_com_luna_1111___status_2047313732347273234.json": {
       "status": "done",
@@ -22933,8 +22936,8 @@
           "https://pbs.twimg.com/profile_images/2032875388205211649/6AFFWkk9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260426160519_twitter_com_luna_1111___status_2048433251581087954.json": {
       "status": "done",
@@ -23073,8 +23076,8 @@
           "https://pbs.twimg.com/profile_images/2044364789103935488/__gBwnPC_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260427143621_twitter_com_luna_1111___status_2048773249207505260.json": {
       "status": "done",
@@ -23347,8 +23350,8 @@
           "https://pbs.twimg.com/profile_images/2043188404326899712/zqXCx5jU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260429142237_twitter_com_luna_1111___status_2049494568282857862.json": {
       "status": "failed",
@@ -23360,8 +23363,8 @@
           "https://pbs.twimg.com/profile_images/2045758360814026752/BKtY2cdM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260429142652_twitter_com_luna_1111___status_2049495639570952480.json": {
       "status": "done",
@@ -23797,8 +23800,8 @@
           "https://pbs.twimg.com/profile_images/2040622993647550464/tyymAl98_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260503150352_twitter_com_luna_1111___status_2050954501125722511.json": {
       "status": "failed",
@@ -23813,8 +23816,8 @@
           "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:15",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260503150433_twitter_com_luna_1111___status_2050954670701510800.json": {
       "status": "done",
@@ -23855,8 +23858,8 @@
           "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:15",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260503162858_twitter_com_luna_1111___status_2050975915497115692.json": {
       "status": "done",
@@ -24025,8 +24028,8 @@
           "https://pbs.twimg.com/profile_images/2043188404326899712/zqXCx5jU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:07",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260504162001_twitter_com_luna_1111___status_2051336050979528965.json": {
       "status": "done",
@@ -24262,8 +24265,8 @@
           "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:15",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260507162304_twitter_com_luna_1111___status_2052423981349625981.json": {
       "status": "done",
@@ -24317,8 +24320,8 @@
           "https://pbs.twimg.com/profile_images/2052179665373241344/ZGXpnCLy_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:08",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260508091615_twitter_com_luna_1111___status_2052678958093685059.json": {
       "status": "done",
@@ -25207,8 +25210,8 @@
           "https://pbs.twimg.com/profile_images/2054809917853466624/fkXS2D8U_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:15",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260514080514_twitter_com_luna_1111___status_2054835415455297741.json": {
       "status": "done",
@@ -25671,8 +25674,8 @@
           "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11",
-      "miss_count": 33
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 34
     },
     "20260516172050_twitter_com_luna_1111___status_2055700010969210955.json": {
       "status": "done",
@@ -30075,8 +30078,8 @@
           "https://pbs.twimg.com/profile_images/2066466786904870912/xG412lqg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:10",
-      "miss_count": 17
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 18
     },
     "20260616135849_twitter_com_luna_1111___status_2066883194884935937.json": {
       "status": "done",
@@ -32464,8 +32467,8 @@
           "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:14",
-      "miss_count": 5
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 6
     },
     "20260711144946_twitter_com_luna_1111___status_2075955716092019041.json": {
       "status": "done",
@@ -33521,8 +33524,8 @@
           "https://pbs.twimg.com/profile_images/2000433652501774336/VpJJuMMx_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:14",
-      "miss_count": 3
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 4
     },
     "20260719132109_twitter_com_luna_1111___status_2078832517717930075.json": {
       "status": "done",
@@ -34049,8 +34052,8 @@
           "https://pbs.twimg.com/profile_images/2081030070030991360/bOh588dY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:18",
-      "miss_count": 1
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 2
     },
     "20260726120018_twitter_com_luna_1111___status_2081348886094917948.json": {
       "status": "done",
@@ -34368,8 +34371,8 @@
           "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:15",
-      "miss_count": 3
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 4
     },
     "20260730121110_twitter_com_luna_1111___status_2082801171899514956.json": {
       "status": "done",
@@ -35150,7 +35153,7 @@
           "https://pbs.twimg.com/profile_images/1802724008397250560/zT1WlqE2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260718050923_twitter_com_luna_1111___status_2078346373573812534.json": {
       "status": "done",
@@ -35292,7 +35295,7 @@
           "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:14"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260718144350_twitter_com_luna_1111___status_2078490936724856861.json": {
       "status": "done",
@@ -35328,7 +35331,7 @@
           "https://pbs.twimg.com/profile_images/2077301419783184384/Uw3-Oh3t_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260719113713_twitter_com_luna_1111___status_2078806360033226839.json": {
       "status": "unknown",
@@ -35340,7 +35343,7 @@
           "https://pbs.twimg.com/profile_images/2077301419783184384/Uw3-Oh3t_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260719140659_twitter_com_luna_1111___status_2078844049579192442.json": {
       "status": "done",
@@ -35379,7 +35382,7 @@
           "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260720020014_twitter_com_luna_1111___status_2079023547058704712.json": {
       "status": "done",
@@ -35429,7 +35432,7 @@
           "https://pbs.twimg.com/profile_images/2071072896664104960/XV-dO9FM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260720163623_twitter_com_luna_1111___status_2079244036175696106.json": {
       "status": "done",
@@ -35476,7 +35479,7 @@
           "https://pbs.twimg.com/profile_images/1947572499941888003/QZTVw-Bq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260721012538_twitter_com_luna_1111___status_2079377228685857087.json": {
       "status": "done",
@@ -35500,7 +35503,7 @@
           "https://pbs.twimg.com/profile_images/2074861255509307392/Y8tOJNW6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260721130850_twitter_com_luna_1111___status_2079554192373420184.json": {
       "status": "unknown",
@@ -35512,7 +35515,7 @@
           "https://pbs.twimg.com/profile_images/2065841064477618176/PjwC8R-Z_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260721163143_twitter_com_luna_1111___status_2079605251238507005.json": {
       "status": "done",
@@ -35561,7 +35564,7 @@
           "https://pbs.twimg.com/profile_images/2079727153118105600/dCuBa-tY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260722020128_twitter_com_luna_1111___status_2079748632476266504.json": {
       "status": "unknown",
@@ -35573,7 +35576,7 @@
           "https://pbs.twimg.com/profile_images/1997361860912558080/dMZhlN0e_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260722032005_twitter_com_luna_1111___status_2079768416895005033.json": {
       "status": "done",
@@ -35600,7 +35603,7 @@
           "https://pbs.twimg.com/profile_images/1989874381770952705/DFv-z20u_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:17"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260722125234_twitter_com_luna_1111___status_2079912486233600160.json": {
       "status": "done",
@@ -35650,7 +35653,7 @@
           "https://pbs.twimg.com/profile_images/2079848684662202369/1bYOBN1l_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260722173739_twitter_com_luna_1111___status_2079984231967867378.json": {
       "status": "unknown",
@@ -35663,7 +35666,7 @@
           "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:11"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260723011035_twitter_com_luna_1111___status_2080098215177888178.json": {
       "status": "done",
@@ -35701,8 +35704,8 @@
           "https://pbs.twimg.com/profile_images/2072900186695987200/mkZMR6a3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:14",
-      "miss_count": 1
+      "last_updated": "2026-09-19T07:31:02",
+      "miss_count": 2
     },
     "20260723062508_twitter_com_luna_1111___status_2080177372226273708.json": {
       "status": "done",
@@ -35819,7 +35822,7 @@
           "https://pbs.twimg.com/profile_images/2077301419783184384/Uw3-Oh3t_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260728074538_twitter_com_luna_1111___status_2082009573620121600.json": {
       "status": "unknown",
@@ -35831,7 +35834,7 @@
           "https://pbs.twimg.com/profile_images/2078935795243872256/4ZyyjK_3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260728074551_twitter_com_luna_1111___status_2082009625084260531.json": {
       "status": "done",
@@ -35867,7 +35870,7 @@
           "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260728122340_twitter_com_luna_1111___status_2082079539606303122.json": {
       "status": "done",
@@ -35893,7 +35896,7 @@
           "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:15"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260728133404_twitter_com_luna_1111___status_2082097257961148616.json": {
       "status": "unknown",
@@ -35907,7 +35910,7 @@
           "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:04"
     },
     "20260728183018_twitter_com_luna_1111___status_2082171809818910809.json": {
       "status": "done",
@@ -36025,7 +36028,7 @@
           "https://pbs.twimg.com/profile_images/2070681859684798464/sOsRMjEF_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260731140930_twitter_com_luna_1111___status_2083193337201254687.json": {
       "status": "done",
@@ -36170,7 +36173,7 @@
           "https://pbs.twimg.com/profile_images/2078330275180793857/74pRYPhY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260803124205_twitter_com_luna_1111___status_2084258504211410948.json": {
       "status": "done",
@@ -36276,7 +36279,7 @@
           "https://pbs.twimg.com/profile_images/1741782483191177216/jwI9wAB7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260811163030_twitter_com_luna_1111___status_2087215090571542966.json": {
       "status": "done",
@@ -36299,7 +36302,7 @@
           "https://pbs.twimg.com/profile_images/2083843279389630464/7UwnFsgU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260812051951_twitter_com_luna_1111___status_2087408700386599041.json": {
       "status": "unknown",
@@ -36311,7 +36314,7 @@
           "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260812053217_twitter_com_luna_1111___status_2087411831455535459.json": {
       "status": "done",
@@ -36381,7 +36384,7 @@
           "https://pbs.twimg.com/profile_images/2083165051297628160/TM2Tlu26_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260812055721_twitter_com_luna_1111___status_2087418141399978487.json": {
       "status": "unknown",
@@ -36393,7 +36396,7 @@
           "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260812061330_twitter_com_luna_1111___status_2087422202010550581.json": {
       "status": "unknown",
@@ -36405,7 +36408,7 @@
           "https://pbs.twimg.com/profile_images/2087195971231137792/sU4mnzI7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260812071956_twitter_com_luna_1111___status_2087438921257087479.json": {
       "status": "done",
@@ -36441,7 +36444,7 @@
           "https://pbs.twimg.com/profile_images/2087555118380302336/yYMpnBQc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260813020648_twitter_com_luna_1111___status_2087722507101196338.json": {
       "status": "done",
@@ -36478,7 +36481,7 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260813044449_twitter_com_luna_1111___status_2087762273721045232.json": {
       "status": "unknown",
@@ -36490,7 +36493,7 @@
           "https://pbs.twimg.com/profile_images/2085586274866606080/IOegF-Ij_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260813045355_twitter_com_luna_1111___status_2087764562384994644.json": {
       "status": "done",
@@ -36571,7 +36574,7 @@
           "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260813171405_twitter_com_luna_1111___status_2087950834638450715.json": {
       "status": "unknown",
@@ -36584,7 +36587,7 @@
           "https://pbs.twimg.com/profile_images/2080383668082851840/WI3z7833_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260813171710_twitter_com_luna_1111___status_2087951608453968380.json": {
       "status": "unknown",
@@ -36597,7 +36600,7 @@
           "https://pbs.twimg.com/profile_images/2080383668082851840/WI3z7833_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260814034041_twitter_com_luna_1111___status_2088108523662307416.json": {
       "status": "done",
@@ -36645,7 +36648,7 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260815064451_twitter_com_luna_1111___status_2088517255969816702.json": {
       "status": "done",
@@ -36729,7 +36732,7 @@
           "https://pbs.twimg.com/profile_images/2087504855682416641/QZhsmwBn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260816080057_twitter_com_luna_1111___status_2088898794327044371.json": {
       "status": "done",
@@ -36778,7 +36781,7 @@
           "https://pbs.twimg.com/profile_images/2044056098873978883/TB8Ilmi6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260817172510_twitter_com_luna_1111___status_2089403174927147362.json": {
       "status": "done",
@@ -36814,7 +36817,7 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260818074827_twitter_com_luna_1111___status_2089620424305074223.json": {
       "status": "done",
@@ -36837,7 +36840,7 @@
           "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260819123918_twitter_com_luna_1111___status_2090056009935179878.json": {
       "status": "done",
@@ -36860,7 +36863,7 @@
           "https://pbs.twimg.com/profile_images/2074642025744662528/Fk9dt44z_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:12"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260821122709_twitter_com_luna_1111___status_2090777728597496167.json": {
       "status": "done",
@@ -36898,7 +36901,7 @@
           "https://pbs.twimg.com/profile_images/2082901965680635904/YjOxKY68_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:13"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260821131345_twitter_com_luna_1111___status_2090789455410131196.json": {
       "status": "done",
@@ -36980,7 +36983,7 @@
           "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:15"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260822134427_twitter_com_luna_1111___status_2091159567107592342.json": {
       "status": "done",
@@ -37036,7 +37039,7 @@
           "https://pbs.twimg.com/profile_images/2098849303024504832/5OV3KZrW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:13"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260913155107_twitter_com_luna_1111___status_2099163978085834846.json": {
       "status": "unknown",
@@ -37048,7 +37051,7 @@
           "https://pbs.twimg.com/profile_images/2060084703831400450/sNoTelC4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:13"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260914043235_twitter_com_luna_1111___status_2099355607182815545.json": {
       "status": "unknown",
@@ -37060,7 +37063,7 @@
           "https://pbs.twimg.com/profile_images/2004450408807485440/Ev5UOKh8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:13"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260914121938_twitter_com_luna_1111___status_2099473144306434485.json": {
       "status": "done",
@@ -37083,7 +37086,7 @@
           "https://pbs.twimg.com/profile_images/2074173868386967554/XahyxIed_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:13"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260915071702_twitter_com_luna_1111___status_2099759380703088965.json": {
       "status": "unknown",
@@ -37097,7 +37100,7 @@
           "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:13"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260915074302_twitter_com_luna_1111___status_2099765923876065455.json": {
       "status": "done",
@@ -37120,7 +37123,7 @@
           "https://pbs.twimg.com/profile_images/2091712333479591936/lYKcbDKd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:13"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260915143157_twitter_com_luna_1111___status_2099868832156557785.json": {
       "status": "unknown",
@@ -37132,7 +37135,7 @@
           "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:13"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260916115235_twitter_com_luna_1111___status_2100191112875167897.json": {
       "status": "done",
@@ -37167,7 +37170,7 @@
           "https://pbs.twimg.com/profile_images/2094721706170753024/Khl4rjav_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-19T07:28:13"
+      "last_updated": "2026-09-19T07:31:02"
     },
     "20260916155121_twitter_com_luna_1111___status_2100251201724125457.json": {
       "status": "done",
