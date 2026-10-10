@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2104184317966737807",
+    "created_at": "2026-09-27T12:20:09.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104184317966737807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sadsadcatc/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/sadsadcatc/status/2104180774497091907",
+          "start": 9,
+          "url": "https://t.co/TSXQSckyYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104184317966737807",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104180774497091907",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想、要、朋、友！ https://t.co/TSXQSckyYM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2104184317966737807",
+        "created_at": "2026-09-27T12:20:09.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104184317966737807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sadsadcatc/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/sadsadcatc/status/2104180774497091907",
+              "start": 9,
+              "url": "https://t.co/TSXQSckyYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104184317966737807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104180774497091907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想、要、朋、友！ https://t.co/TSXQSckyYM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943361769814261760",
+        "conversation_id": "2104180774497091907",
+        "created_at": "2026-09-27T12:06:05.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104180774497091907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hathawaybk56/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hathawaybk56/status/2104168441360048282",
+              "start": 9,
+              "url": "https://t.co/Fe7ue0J0XN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104180774497091907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104168441360048282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想、要、朋、友！ https://t.co/Fe7ue0J0XN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 无性恋 | 欢迎大家跟咱玩🥰 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 出生地:HK",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104184317966737807",
+        "name": "Luna (焦虑ing)✨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 543,
+          "like_count": 11363,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1704
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "This story is not end yet,because only you are in the loop of infinity\n2004 mtf 持证含糖 长居武汉 \n想交朋友 💊/🩸 跨女同\n我是精神病，接受不了直接划走，讨厌健全b",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadsadcatc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadsadcatc",
+                "start": 0,
+                "url": "https://t.co/xH3r8cmXv2"
+              }
+            ]
+          }
+        },
+        "id": "1943361769814261760",
+        "is_identity_verified": false,
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "most_recent_tweet_id": "2104183556910289378",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "2096175141629915486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943361769814261760/1752591890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 1463,
+          "like_count": 26637,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 8261
+        },
+        "url": "https://t.co/xH3r8cmXv2",
+        "username": "sadsadcatc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

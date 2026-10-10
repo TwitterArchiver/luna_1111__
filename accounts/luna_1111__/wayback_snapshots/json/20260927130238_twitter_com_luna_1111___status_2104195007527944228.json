@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104193444952576000"
+      ],
+      "media_source_tweet_id": [
+        "2104194092947349554"
+      ]
+    },
+    "author_id": "2037915149173182465",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104195007527944228",
+    "created_at": "2026-09-27T13:02:38.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T14:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104195007527944228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4313176880",
+          "start": 3,
+          "username": "fake_fuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k2wkDYorj2",
+          "end": 71,
+          "expanded_url": "https://x.com/fake_fuji/status/2104194092947349554/video/1",
+          "media_key": "13_2104193444952576000",
+          "start": 48,
+          "url": "https://t.co/k2wkDYorj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104195007527944228",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2104193444952576000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104194092947349554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fake_fuji: 你好，愿意了解我的过往吗？\n就是衡水模式的那些事情\n感谢您的观看 https://t.co/k2wkDYorj2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 354733,
+        "height": 1080,
+        "media_key": "13_2104193444952576000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104193444952576000/img/Rnt_aljTtJpcucfk.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104193444952576000/vid/avc1/1276x720/CLmZp6Yqg9tgpX8-.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104193444952576000/vid/avc1/1916x1080/7QUUk9s1OW0sMu2H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104193444952576000/pl/8BR_Yp3UFG-H3kq8.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104193444952576000/vid/avc1/638x360/u8FlzKrKYROuPDCf.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104193444952576000/vid/avc1/478x270/2Q-A94WUk6xdtrmp.mp4"
+          }
+        ],
+        "width": 1916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104193444952576000"
+          ],
+          "media_source_tweet_id": [
+            "2104194092947349554"
+          ]
+        },
+        "author_id": "2037915149173182465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104195007527944228",
+        "created_at": "2026-09-27T13:02:38.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104195007527944228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4313176880",
+              "start": 3,
+              "username": "fake_fuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2wkDYorj2",
+              "end": 71,
+              "expanded_url": "https://x.com/fake_fuji/status/2104194092947349554/video/1",
+              "media_key": "13_2104193444952576000",
+              "start": 48,
+              "url": "https://t.co/k2wkDYorj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104195007527944228",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104193444952576000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104194092947349554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fake_fuji: 你好，愿意了解我的过往吗？\n就是衡水模式的那些事情\n感谢您的观看 https://t.co/k2wkDYorj2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104193444952576000"
+          ]
+        },
+        "author_id": "4313176880",
+        "conversation_id": "2104194092947349554",
+        "created_at": "2026-09-27T12:59:00.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104194092947349554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2wkDYorj2",
+              "end": 56,
+              "expanded_url": "https://x.com/fake_fuji/status/2104194092947349554/video/1",
+              "media_key": "13_2104193444952576000",
+              "start": 33,
+              "url": "https://t.co/k2wkDYorj2"
+            },
+            {
+              "display_url": "x.com/fake_fuji/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/fake_fuji/status/2103851957505179696",
+              "start": 57,
+              "url": "https://t.co/97i9gKjHlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104194092947349554",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104193444952576000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103851957505179696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好，愿意了解我的过往吗？\n就是衡水模式的那些事情\n感谢您的观看 https://t.co/k2wkDYorj2 https://t.co/97i9gKjHlZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 无性恋 | 欢迎大家跟咱玩🥰 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 出生地:HK",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104195007527944228",
+        "name": "Luna (焦虑ing)✨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 543,
+          "like_count": 11366,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1705
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 大学独居｜只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHIEfb"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2104194092947349554",
+        "name": "星野ふじ🍔VTber",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 730,
+          "like_count": 2269,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/46yRJHIEfb",
+        "username": "fake_fuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

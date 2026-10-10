@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2107456797024059881",
+    "created_at": "2026-10-06T13:41:52.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T14:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107466370032263464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032897236305158144",
+          "start": 0,
+          "username": "sophhhsama2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107466370032263464",
+    "in_reply_to_user_id": "2032897236305158144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107456797024059881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sophhhsama2 🥺🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2107456797024059881].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2107456797024059881",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2107456797024059881"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2107456797024059881",
+        "created_at": "2026-10-06T13:41:52.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107466370032263464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032897236305158144",
+              "start": 0,
+              "username": "sophhhsama2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107466370032263464",
+        "in_reply_to_user_id": "2032897236305158144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107456797024059881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama2 🥺🫂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 无性恋 | 欢迎大家跟咱玩🥰 | 不混圈 | 繁/简/ENG | 出生地:HK",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107466370032263464",
+        "name": "Luna (焦虑ing)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 563,
+          "like_count": 11831,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-14T19:11:38.000Z",
+        "description": "主人 @sophhhsama\n小猫的小号\n负能碎碎念里推\n欢迎大号常互动的互fo来看看哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "sophhhsama"
+              }
+            ]
+          }
+        },
+        "id": "2032897236305158144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2085725945118199953",
+        "name": "おにゃすみ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032897236305158144/1776464337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045265740312285184/pUoGL9kw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 48,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "sophhhsama2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

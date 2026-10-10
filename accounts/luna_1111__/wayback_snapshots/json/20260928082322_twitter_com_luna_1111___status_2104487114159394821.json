@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2104487114159394821",
+    "created_at": "2026-09-28T08:23:22.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T09:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104487114159394821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 71,
+          "id": "1720665183188922368",
+          "start": 66,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/qian67068/stat…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/qian67068/status/2104470880302874693",
+          "start": 85,
+          "url": "https://t.co/9B5mpKokQ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104487114159394821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104470880302874693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被家暴过✅\n被校园霸凌过✅\n被老师整过✅\n被晶过❌\n被网暴过✅\n打过自己父母✅\n打过同学❌\n打过老师❌\n键政过❓\n网暴别人❌\n🧐🧐\n@grok 小Luna是不是好女孩🥺 https://t.co/9B5mpKokQ9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2104487114159394821",
+        "created_at": "2026-09-28T08:23:22.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104487114159394821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1720665183188922368",
+              "start": 66,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/qian67068/stat…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/qian67068/status/2104470880302874693",
+              "start": 85,
+              "url": "https://t.co/9B5mpKokQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104487114159394821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104470880302874693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被家暴过✅\n被校园霸凌过✅\n被老师整过✅\n被晶过❌\n被网暴过✅\n打过自己父母✅\n打过同学❌\n打过老师❌\n键政过❓\n网暴别人❌\n🧐🧐\n@grok 小Luna是不是好女孩🥺 https://t.co/9B5mpKokQ9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956958284310818816",
+        "conversation_id": "2104470880302874693",
+        "created_at": "2026-09-28T07:18:51.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104470880302874693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 80,
+              "id": "1720665183188922368",
+              "start": 75,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mark67358226/s…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/mark67358226/status/2104436358777602519",
+              "start": 92,
+              "url": "https://t.co/x6cwkRGJ5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104470880302874693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104436358777602519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被家暴过✅\n被校园霸凌过✅\n被老师整过✅\n被晶过❌\n被网暴过❓都是互喷🤔\n打过自己父母✅\n打过同学✅\n打过老师✅\n键政过✅\n网暴别人❓都是互喷\n🧐🧐\n@grok 小触手是不是好女孩🥺 https://t.co/x6cwkRGJ5n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 无性恋 | 欢迎大家跟咱玩🥰 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 出生地:HK",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104487114159394821",
+        "name": "Luna (焦虑ing)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 543,
+          "like_count": 11387,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1671
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "MtX，泛性戀，也可把我當女孩子喵\n噁爛版：@qian68069\n私密：@xiaoqianjiang12\n消失的姐姐😭：@QiNian1604\n主人❤️：@catcatuwu69\n語言：繁中/簡中/EN/日本語\n攻受可切的觸手娘😈\n髒話含量超標注意🤬\n\n友好任何非極端團體\n\n愛所有人，卻永遠學不會愛人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "qian68069"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "xiaoqianjiang12"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "QiNian1604"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "catcatuwu69"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "is_identity_verified": false,
+        "location": "你的浴缸🛁",
+        "most_recent_tweet_id": "2104481241760424322",
+        "name": "🏳️‍🌈🐙小觸手🦑🏳️‍⚧️",
+        "pinned_tweet_id": "2104132563589808189",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956958284310818816/1784818334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1557,
+          "like_count": 15867,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 5152
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104487129237553428",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9107575,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7682,
+          "media_count": 3963945,
+          "tweet_count": 137545194
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

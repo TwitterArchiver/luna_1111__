@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "conversation_id": "2107677262535696752",
+    "created_at": "2026-10-07T03:41:50.000Z",
+    "display_text_range": [
+      21,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T04:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107677757769646285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767453480065839104",
+          "start": 0,
+          "username": "Lone_Wolf_CYK"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        },
+        {
+          "end": 119,
+          "id": "1720665183188922368",
+          "start": 114,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107677757769646285",
+    "in_reply_to_user_id": "1767453480065839104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107677262535696752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lone_Wolf_CYK @grok 请分析我的推文、个人资料和互动历史，并回答以下问题：  \n性别： \n性取向： \n年龄： \n心理年龄： \n兴趣爱好： \n智商： \n形容我的形容词： \n喜欢的东西5个： \n讨厌的东西5个：\n@grok\n\n▼⁠・⁠ᴥ⁠・⁠▼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "conversation_id": "2107677262535696752",
+        "created_at": "2026-10-07T03:41:50.000Z",
+        "display_text_range": [
+          21,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107677757769646285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767453480065839104",
+              "start": 0,
+              "username": "Lone_Wolf_CYK"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            },
+            {
+              "end": 119,
+              "id": "1720665183188922368",
+              "start": 114,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107677757769646285",
+        "in_reply_to_user_id": "1767453480065839104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107677262535696752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lone_Wolf_CYK @grok 请分析我的推文、个人资料和互动历史，并回答以下问题：  \n性别： \n性取向： \n年龄： \n心理年龄： \n兴趣爱好： \n智商： \n形容我的形容词： \n喜欢的东西5个： \n讨厌的东西5个：\n@grok\n\n▼⁠・⁠ᴥ⁠・⁠▼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767453480065839104",
+        "conversation_id": "2107677262535696752",
+        "created_at": "2026-10-07T03:39:52.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107677262535696752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 98,
+              "id": "1720665183188922368",
+              "start": 93,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/llzxhwrt97853/…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/llzxhwrt97853/status/2107504017379385759",
+              "start": 109,
+              "url": "https://t.co/w62OJa9lDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107677262535696752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107504017379385759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请分析我的推文、个人资料和互动历史，并回答以下问题：  \n性别： \n性取向： \n年龄： \n心理年龄： \n兴趣爱好： \n智商： \n形容我的形容词： \n喜欢的东西5个： \n讨厌的东西5个：\n@grok\n▼⁠・⁠ᴥ⁠・⁠▼ https://t.co/w62OJa9lDs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 无性恋 | 欢迎大家跟咱玩🥰 | 不混圈 | 繁/简/ENG | 出生地:HK",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107677757769646285",
+        "name": "Luna (焦虑ing)",
+        "pinned_tweet_id": "2107479472933114188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 570,
+          "like_count": 11885,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1801
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-12T07:32:24.000Z",
+        "description": "| 咖啡&酒類 | 軍事&歷史&政治&時事&生活 | 19 | 大學生 | 小帳: @YK_C_8964 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "YK_C_8964"
+              }
+            ]
+          }
+        },
+        "id": "1767453480065839104",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2107677262535696752",
+        "name": "YK C",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767453480065839104/1777511228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059903559278440448/DzORE7-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1600,
+          "like_count": 77164,
+          "listed_count": 4,
+          "media_count": 1951,
+          "tweet_count": 17652
+        },
+        "url": "",
+        "username": "Lone_Wolf_CYK",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107677773825298717",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9145468,
+          "following_count": 4,
+          "like_count": 143,
+          "listed_count": 7742,
+          "media_count": 3988649,
+          "tweet_count": 139356274
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

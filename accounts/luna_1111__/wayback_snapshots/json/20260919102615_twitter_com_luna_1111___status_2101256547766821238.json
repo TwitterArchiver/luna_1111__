@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2037915149173182465",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "847869481888096256",
+          "name": "Gambling"
+        }
+      }
+    ],
+    "conversation_id": "2101256547766821238",
+    "created_at": "2026-09-19T10:26:15.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T11:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101256547766821238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NationalPureVF…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/NationalPureVF4/status/2101196671833325893",
+          "start": 113,
+          "url": "https://t.co/KwrmQNVbhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101256547766821238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101196671833325893",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你認為什麼在道德上是可接受的\n🟨 墮胎  \n🟩 安樂死\n🟩 同性戀\n🟩 性別轉換  \n🟩 色情製品 (人性使然)\n🟥 离婚  \n🟨 避孕药  \n🟨 婚前性行為 \n🟥 多元戀愛 \n🟨 賭博  \n🟨 死刑\n🟨 動物實驗\n🟩 克隆 https://t.co/KwrmQNVbhr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037915149173182465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "847869481888096256",
+              "name": "Gambling"
+            }
+          }
+        ],
+        "conversation_id": "2101256547766821238",
+        "created_at": "2026-09-19T10:26:15.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T11:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101256547766821238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NationalPureVF…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/NationalPureVF4/status/2101196671833325893",
+              "start": 113,
+              "url": "https://t.co/KwrmQNVbhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101256547766821238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101196671833325893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你認為什麼在道德上是可接受的\n🟨 墮胎  \n🟩 安樂死\n🟩 同性戀\n🟩 性別轉換  \n🟩 色情製品 (人性使然)\n🟥 离婚  \n🟨 避孕药  \n🟨 婚前性行為 \n🟥 多元戀愛 \n🟨 賭博  \n🟨 死刑\n🟨 動物實驗\n🟩 克隆 https://t.co/KwrmQNVbhr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683060453528965120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "847869481888096256",
+              "name": "Gambling"
+            }
+          }
+        ],
+        "conversation_id": "2101196671833325893",
+        "created_at": "2026-09-19T06:28:19.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101196671833325893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiyun114514/s…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/zhiyun114514/status/2101194657229410354",
+              "start": 113,
+              "url": "https://t.co/hI4jzVRiU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101196671833325893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1846,
+          "like_count": 8,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101194657229410354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你認為什麼在道德上是可接受的\n🟨 墮胎  \n🟥 安樂死\n🟩 同性戀\n🟩 性別轉換  \n🟩 色情製品 (人性使然)\n🟨 离婚  \n🟨 避孕药  \n🟥 婚前性行為 \n🟥 多元戀愛 \n🟥 賭博  \n🟩 死刑\n🟩 動物實驗\n🟩 克隆 https://t.co/hI4jzVRiU4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 无性恋 | 对所有人友好 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101256547766821238",
+        "name": "Luna (焦虑ing)✨",
+        "pinned_tweet_id": "2091186069849145677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 524,
+          "like_count": 10629,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 1545
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "全中推圈推友的白月光，中推圈唯一指定的吸血姬廢柴大小姐，除了左派的中推圈小團體以外的其他小團體請離我遠點，我沒有興趣打賽博大戰，毒舌／暈血／懼高恐低\n別稱：薇蕾娜/真理子/軟糯真理醬/暈血姬\n最愛的藤醬主人老公 @hoshinofujivy \n夥伴 @jawenzhu @_Weace_ @YukinonCC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 143,
+                "start": 135,
+                "username": "_Weace_"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "YukinonCC"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "is_identity_verified": false,
+        "location": "時鐘塔-現代魔術科艾梅洛教室",
+        "most_recent_tweet_id": "2101229014837022973",
+        "name": "✝︎ 大失敗のmariko＠コミュ障 ✝︎",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683060453528965120/1770856206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087342746197704705/m1PkwJCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 1180,
+          "like_count": 76680,
+          "listed_count": 15,
+          "media_count": 1348,
+          "tweet_count": 34076
+        },
+        "url": "",
+        "username": "NationalPureVF4",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

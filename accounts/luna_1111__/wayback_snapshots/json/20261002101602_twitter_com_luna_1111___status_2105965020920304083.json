@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105965015371227136"
+      ]
+    },
+    "author_id": "2037915149173182465",
+    "conversation_id": "2105965020920304083",
+    "created_at": "2026-10-02T10:16:02.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105965020920304083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zmA2p2He2i",
+          "end": 40,
+          "expanded_url": "https://x.com/luna_1111__/status/2105965020920304083/photo/1",
+          "media_key": "3_2105965015371227136",
+          "start": 17,
+          "url": "https://t.co/zmA2p2He2i"
+        },
+        {
+          "display_url": "x.com/aaarjkkmiao/st…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/aaarjkkmiao/status/2105964459646910626",
+          "start": 41,
+          "url": "https://t.co/VIzgauJpA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105965020920304083",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105965015371227136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105964459646910626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是这个sb软件每天让我疯狂gd https://t.co/zmA2p2He2i https://t.co/VIzgauJpA5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 215,
+        "media_key": "3_2105965015371227136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnkBgqaIAA2DZF.jpg",
+        "width": 234
+      },
+      {
+        "height": 431,
+        "media_key": "3_2105964454752186368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnjg4MacAAyhop.jpg",
+        "width": 431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105965015371227136"
+          ]
+        },
+        "author_id": "2037915149173182465",
+        "conversation_id": "2105965020920304083",
+        "created_at": "2026-10-02T10:16:02.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105965020920304083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmA2p2He2i",
+              "end": 40,
+              "expanded_url": "https://x.com/luna_1111__/status/2105965020920304083/photo/1",
+              "media_key": "3_2105965015371227136",
+              "start": 17,
+              "url": "https://t.co/zmA2p2He2i"
+            },
+            {
+              "display_url": "x.com/aaarjkkmiao/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/aaarjkkmiao/status/2105964459646910626",
+              "start": 41,
+              "url": "https://t.co/VIzgauJpA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105965020920304083",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105965015371227136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105964459646910626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是这个sb软件每天让我疯狂gd https://t.co/zmA2p2He2i https://t.co/VIzgauJpA5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105964454752186368"
+          ]
+        },
+        "author_id": "616537873",
+        "conversation_id": "2105964459646910626",
+        "created_at": "2026-10-02T10:13:48.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105964459646910626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3oroKYhMn",
+              "end": 40,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2105964459646910626/photo/1",
+              "media_key": "3_2105964454752186368",
+              "start": 17,
+              "url": "https://t.co/h3oroKYhMn"
+            },
+            {
+              "display_url": "x.com/zhweaa/status/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/zhweaa/status/2105626313012973575",
+              "start": 41,
+              "url": "https://t.co/rjYRTLV3Ax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105964459646910626",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105964454752186368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105626313012973575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是这个sb软件每天让我疯狂gd https://t.co/h3oroKYhMn https://t.co/rjYRTLV3Ax"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "MtF | 07 | 无性恋 | 欢迎大家跟咱玩🥰 | 不太会安慰人抱歉 (｡ ́︿ ̀｡) | 繁/简/ENG | 出生地:HK",
+        "id": "2037915149173182465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105965020920304083",
+        "name": "Luna (焦虑ing)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037915149173182465/1775201245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 544,
+          "like_count": 11471,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1685
+        },
+        "url": "",
+        "username": "luna_1111__",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "活在幻想中☁️希望咱们每天都能开开心心的☺️☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人🍥8/31/2026小资历🎂10/14/2010天残党 家长半管党\n🏳️小号@a0brjkk(负面?🤔)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 97,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": true,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2105964459646910626",
+        "name": "喵喵式茂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103733863138926592/-g5vl17p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 695,
+          "like_count": 65,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 995
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
